@@ -8070,7 +8070,7 @@
 ["solo_minigrep",["0.1.0"]]
 ["solog",["0.0.0"]]
 ["sologger_log_context",["0.1.2","0.1.1","0.1.0"]]
-["sologger_log_transformer",["0.1.3","0.1.2","0.1.1","0.1.0"]]
+["sologger_log_transformer",["0.1.4","0.1.3","0.1.2","0.1.1","0.1.0"]]
 ["sologger_log_transport",["0.1.2","0.1.1","0.1.0"]]
 ["solomka-clap-utils",["1.14.12","1.14.20"]]
 ["solomka-clap-v3-utils",["1.14.12","1.14.20"]]
