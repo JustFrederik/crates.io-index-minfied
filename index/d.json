@@ -709,7 +709,7 @@
 ["datastore_derive",["0.1.2","0.1.1","0.1.0"]]
 ["datastore_grpc",["0.5.2","0.4.0","0.1.1","0.1.0"]]
 ["datastreamcorelib",["1.0.1","1.0.0","0.5.1"]]
-["datastreams-rs",["0.1.0"]]
+["datastreams-rs",["0.2.0","0.1.0"]]
 ["datastreamservicelib",["1.0.0","0.6.0"]]
 ["datastruct",["0.1.1"]]
 ["datastruct_derive",["0.1.1"]]
