@@ -1752,7 +1752,7 @@
 ["deltalake-aws",["0.1.0"]]
 ["deltalake-azure",["0.1.0"]]
 ["deltalake-catalog-glue",["0.1.0"]]
-["deltalake-core",["0.17.1","0.17.0"]]
+["deltalake-core",["0.17.3","0.17.1","0.17.0"]]
 ["deltalake-gcp",["0.1.0"]]
 ["deltalake-sql",["0.1.0"]]
 ["deltamap",["0.2.2","0.2.1","0.2.0","0.1.0"]]
