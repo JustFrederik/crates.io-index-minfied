@@ -4015,7 +4015,7 @@
 ["reusable",["0.1.0"]]
 ["reusable-box-future",["0.2.0","0.1.0"]]
 ["reusable-fmt",["0.2.0","0.1.2","0.1.1","0.1.0"]]
-["reusable-id-pool",["0.1.1","0.1.0"]]
+["reusable-id-pool",["0.1.2","0.1.1","0.1.0"]]
 ["reusable-memory",["0.2.1","0.2.0","0.1.1","0.1.0"]]
 ["reusable-vec",["0.1.2"]]
 ["reusable_derive",["0.1.0"]]
