@@ -215,6 +215,7 @@
 ["objc2-class-kit",["0.2.0"]]
 ["objc2-cloud-kit",["0.2.0"]]
 ["objc2-contacts",["0.2.0"]]
+["objc2-core-bluetooth",["0.0.0"]]
 ["objc2-core-data",["0.2.0"]]
 ["objc2-core-location",["0.2.0"]]
 ["objc2-core-wlan",["0.2.0"]]
