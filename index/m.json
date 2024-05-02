@@ -653,6 +653,7 @@
 ["makepad-hub",["0.1.0"]]
 ["makepad-image-formats",["0.3.0"]]
 ["makepad-internal-iter",["0.1.0"]]
+["makepad-jni-sys",["0.4.0"]]
 ["makepad-live-compiler",["0.5.0","0.4.0","0.3.0"]]
 ["makepad-live-id",["0.4.0","0.3.0"]]
 ["makepad-live-id-macros",["0.4.0","0.3.0"]]
