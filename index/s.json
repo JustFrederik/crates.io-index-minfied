@@ -3460,6 +3460,7 @@
 ["serde_yaml2",["0.1.1","0.1.0"]]
 ["serde_yaml_ext",["0.1.1","0.1.0"]]
 ["serde_yaml_incomplete",[]]
+["serde_yaml_ng",["0.9.35"]]
 ["serde_yaml_with_quirks",["0.8.24","0.8.17"]]
 ["serde_yang",["0.2.0","0.1.0"]]
 ["serde_yml",["0.0.5","0.0.4","0.0.3","0.0.2","0.0.1"]]
