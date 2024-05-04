@@ -223,6 +223,8 @@
 ["java-rand",["0.2.0","0.1.0"]]
 ["java-spaghetti",["0.2.0","0.1.1","0.1.0"]]
 ["java-utils",["0.1.0"]]
+["java_asm",["0.0.1"]]
+["java_asm_internal",["0.0.1"]]
 ["java_asm_macro",["0.0.1"]]
 ["java_class_parser",["0.0.2","0.0.0"]]
 ["java_classpaths",["0.0.2"]]
