@@ -7260,7 +7260,7 @@
 ["atomic_cell",["0.2.0","0.1.0"]]
 ["atomic_enum",["0.3.0","0.2.0","0.1.1","0.1.0"]]
 ["atomic_enum_2021",[]]
-["atomic_float",["0.1.0"]]
+["atomic_float",["1.0.0","0.1.0"]]
 ["atomic_fn",["0.2.1"]]
 ["atomic_hooks",["0.1.0"]]
 ["atomic_hooks_macros",["0.1.3"]]
