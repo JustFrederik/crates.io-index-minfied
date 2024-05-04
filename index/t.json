@@ -5235,6 +5235,7 @@
 ["tokio-postgres",["0.7.10","0.7.9","0.7.8","0.7.7","0.7.6","0.7.5","0.7.4","0.7.3","0.7.2","0.7.1","0.7.0","0.6.0","0.5.5","0.5.4","0.5.3","0.5.2","0.5.1","0.5.0","0.5.0-alpha.2","0.5.0-alpha.1","0.4.0-rc.3","0.4.0-rc.2","0.4.0-rc.1","0.3.0","0.2.3","0.2.2","0.2.1","0.2.0","0.1.1","0.1.0"]]
 ["tokio-postgres-extractor",["0.7.0"]]
 ["tokio-postgres-extractor-macros",["0.7.0"]]
+["tokio-postgres-generic-rustls",["0.1.0"]]
 ["tokio-postgres-migration",["0.1.0"]]
 ["tokio-postgres-native-tls",["0.1.0-rc.1"]]
 ["tokio-postgres-openssl",["0.1.0-rc.1"]]
