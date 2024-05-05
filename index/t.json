@@ -6036,7 +6036,7 @@
 ["tower-mod",["0.0.0"]]
 ["tower-opentelemetry",["0.2.0","0.2.0-beta.1","0.1.0-beta.2","0.1.0-beta.1","0.0.1-alpha.3","0.0.1-alpha.2","0.0.1-alpha.1"]]
 ["tower-otel",["0.2.0","0.1.0"]]
-["tower-otel-http-metrics",["0.3.0-alpha0","0.2.1","0.2.0","0.2.0-alpha.0","0.1.0","0.1.0-alpha.3","0.1.0-alpha.2","0.1.0-alpha.1","0.1.0-alpha.0"]]
+["tower-otel-http-metrics",["0.3.0","0.3.0-alpha0","0.2.1","0.2.0","0.2.0-alpha.0","0.1.0","0.1.0-alpha.3","0.1.0-alpha.2","0.1.0-alpha.1","0.1.0-alpha.0"]]
 ["tower-pipeline",["0.1.0"]]
 ["tower-rate-limit",["0.0.0"]]
 ["tower-ready",["0.0.0"]]
