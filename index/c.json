@@ -4734,7 +4734,7 @@
 ["chrome-remote-interface-model-tools",["0.1.0-alpha.8","0.1.0-alpha.7","0.1.0-alpha.6","0.1.0-alpha.5","0.1.0-alpha.4","0.1.0-alpha.3","0.1.0-alpha.2","0.1.0-alpha.1"]]
 ["chrome-sys",["0.2.0","0.1.0","0.0.0"]]
 ["chrome-wasm-bindgen",["0.0.1"]]
-["chrome_driver",["0.1.6","0.1.5","0.1.4","0.1.3","0.1.2","0.1.1","0.1.0","0.1.0-canary"]]
+["chrome_driver",["0.2.0","0.1.6","0.1.5","0.1.4","0.1.3","0.1.2","0.1.1","0.1.0","0.1.0-canary"]]
 ["chrome_login_capture",["0.1.1","0.1.0"]]
 ["chrome_native_messaging",["0.3.0","0.2.0","0.1.2","0.1.1","0.1.0"]]
 ["chrome_password",["0.2.0","0.1.0"]]
