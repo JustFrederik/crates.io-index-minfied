@@ -2593,7 +2593,7 @@
 ["semantics",["0.1.0"]]
 ["semantics-derive",["0.1.0"]]
 ["semanticscholar",["0.1.0"]]
-["semanticsimilarity_rs",["0.1.0"]]
+["semanticsimilarity_rs",["0.1.1","0.1.0"]]
 ["semantix",["0.2.1","0.2.0","0.1.0"]]
 ["semaphore",["0.4.0","0.3.0","0.2.1","0.2.0","0.1.1","0.1.0"]]
 ["semaphore-key",["1.0.4","1.0.3","1.0.2","1.0.1","1.0.0","0.2.0","0.1.0"]]
