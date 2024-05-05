@@ -636,7 +636,7 @@
 ["datafusion-federation",["0.1.4"]]
 ["datafusion-functions",["37.1.0","37.0.0","36.0.0"]]
 ["datafusion-functions-array",["37.1.0","37.0.0","36.0.0"]]
-["datafusion-functions-json",["0.1.0"]]
+["datafusion-functions-json",["0.1.2","0.1.0"]]
 ["datafusion-geo",["0.1.0"]]
 ["datafusion-gpu",["0.1.0-placeholder"]]
 ["datafusion-iceberg-sql",["0.3.0","0.2.1","0.2.0"]]
