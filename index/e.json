@@ -1819,6 +1819,7 @@
 ["embedded-crc-macros",["1.0.0","0.1.0"]]
 ["embedded-crc32c",["0.1.0"]]
 ["embedded-cv",["0.1.0"]]
+["embedded-dal",["0.0.0"]]
 ["embedded-devices",["0.0.1"]]
 ["embedded-display-controller",["0.2.0","0.1.0"]]
 ["embedded-dma",["0.2.0","0.1.2","0.1.1","0.1.0"]]
