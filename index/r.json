@@ -9200,7 +9200,7 @@
 ["rust-pushrod-render",[]]
 ["rust-qcos",["0.0.2"]]
 ["rust-qoi",["0.0.0"]]
-["rust-query",["0.1.0"]]
+["rust-query",["0.1.1","0.1.0"]]
 ["rust-quickie",["0.1.1","0.1.0"]]
 ["rust-quiz",["0.0.6","0.0.5","0.0.4","0.0.3","0.0.2+crater","0.0.1+crater"]]
 ["rust-raknet",["0.12.0"]]
