@@ -10638,6 +10638,7 @@
 ["rusty-html-macros",["0.1.0"]]
 ["rusty-http",[]]
 ["rusty-jokes",["0.1.0"]]
+["rusty-journal",["0.1.0"]]
 ["rusty-junctions-client-api-macro",["0.1.0"]]
 ["rusty-junctions-client-api-proc-macro",["0.1.0"]]
 ["rusty-junctions-library-generation-proc-macro",["0.1.0"]]
