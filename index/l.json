@@ -3369,6 +3369,7 @@
 ["light-psp4in4out-app-storage",["0.3.1","0.3.0"]]
 ["light-snowflake-connector",["0.1.1","0.1.0"]]
 ["light-user-registry",["0.3.0"]]
+["light-utils",["0.1.1"]]
 ["light-verifier-sdk",["0.3.1","0.3.0"]]
 ["light_arena",["1.0.1","1.0.0","0.1.2","0.1.1","0.1.0"]]
 ["light_binary_merkle_tree",["0.1.0"]]
