@@ -6365,7 +6365,7 @@
 ["build-vcxproj",["0.1.0"]]
 ["build-version",["0.1.1","0.1.0"]]
 ["build-with-leak-check",["0.1.0"]]
-["build-wrap",["0.2.1","0.2.0","0.1.1","0.1.0"]]
+["build-wrap",["0.3.0","0.2.1","0.2.0","0.1.1","0.1.0"]]
 ["build-your-own-radar-as-code",["0.2.0","0.1.0"]]
 ["build_assert",["0.0.1"]]
 ["build_builder",["0.0.1"]]
