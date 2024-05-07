@@ -13427,6 +13427,7 @@
 ["surplus-compiler",["0.2.0","0.1.0"]]
 ["surprise-me",["0.1.0"]]
 ["surprise-me-derive",["0.1.0"]]
+["surql-definition-core",["0.2.0"]]
 ["surql-definition-macros",["0.1.0"]]
 ["surqls",["0.0.1-alpha.1"]]
 ["surqlx",["0.1.0"]]
