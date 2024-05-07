@@ -1610,7 +1610,7 @@
 ["network_commons",["0.7.0","0.6.0","0.5.1","0.5.0","0.4.0","0.3.0","0.2.0","0.1.1","0.1.0"]]
 ["network_connectivity",["1.0.0"]]
 ["network_helpers",["1.0.0","0.1.1"]]
-["network_helpers_sv2",["1.0.1","1.0.0"]]
+["network_helpers_sv2",["2.0.0","1.0.1","1.0.0"]]
 ["network_peers_discovery",["0.0.2","0.0.1"]]
 ["network_vis",["0.1.2","0.1.0"]]
 ["networkdirect",["0.1.2","0.1.1","0.1.0"]]
