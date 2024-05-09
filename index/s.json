@@ -8846,7 +8846,7 @@
 ["spark",["0.4.0","0.3.2","0.3.1","0.3.0"]]
 ["spark-connect-rs",["0.0.1-beta.3","0.0.1-beta.2","0.0.1-beta.1","0.0.1-beta","0.0.1-alpha"]]
 ["spark-connect-rust",["0.0.1-alpha.1"]]
-["spark-orm",["0.1.0"]]
+["spark-orm",["0.2.0","0.1.0"]]
 ["spark-orm-derive",["0.1.0"]]
 ["spark-rs",["0.5.0","0.4.2"]]
 ["spark-ser7seg",["0.2.0","0.1.1","0.1.0"]]
