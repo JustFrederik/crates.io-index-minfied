@@ -1831,6 +1831,7 @@
 ["web3_test_proxy_client",["0.4.1","0.3.25","0.3.10","0.3.8","0.3.5"]]
 ["web3api-wasm-rs",["0.0.1-prealpha.85","0.0.1-prealpha.84","0.0.1-prealpha.83","0.0.1-prealpha.82"]]
 ["web3c",["0.0.0"]]
+["web3canister",["0.1.0"]]
 ["web3d",["0.2.0","0.1.0"]]
 ["web3scan",["0.1.100"]]
 ["web3toolkit",[]]
