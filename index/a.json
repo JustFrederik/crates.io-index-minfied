@@ -8013,6 +8013,7 @@
 ["auto-error-into-macro",["0.1.1","0.1.0"]]
 ["auto-future",["1.0.0"]]
 ["auto-git",["0.1.0"]]
+["auto-gpt-local",["0.0.1"]]
 ["auto-hash-map",["1.0.0"]]
 ["auto-http-derive",["0.1.0"]]
 ["auto-image-cropper",["0.1.5","0.1.4","0.1.3","0.1.2","0.1.1","0.1.0"]]
