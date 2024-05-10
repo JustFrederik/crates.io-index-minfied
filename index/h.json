@@ -2994,6 +2994,7 @@
 ["http-routing",["0.0.0"]]
 ["http-routing-axum",["0.0.0"]]
 ["http-routing-hyper",["0.0.0"]]
+["http-routing-kenji",["0.1.0"]]
 ["http-routing-warp",["0.0.0"]]
 ["http-rs",["0.1.3","0.1.2","0.1.1","0.1.0"]]
 ["http-rust",["0.1.2","0.1.1","0.1.0"]]
