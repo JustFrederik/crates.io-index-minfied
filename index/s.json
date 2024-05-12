@@ -11053,7 +11053,7 @@
 ["static-files",["0.2.3","0.2.2","0.2.1","0.2.0","0.1.0","0.0.1"]]
 ["static-files-actix-web",["0.1.0"]]
 ["static-files-axum",["0.1.0"]]
-["static-files-module",["0.1.0"]]
+["static-files-module",["0.2.0","0.1.0"]]
 ["static-files-rocket",["0.1.0"]]
 ["static-files-server",["0.0.2","0.0.1"]]
 ["static-files-tide",["0.1.0"]]
