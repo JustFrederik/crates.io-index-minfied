@@ -5994,6 +5994,8 @@
 ["lune-std-datetime",["0.1.0"]]
 ["lune-std-fs",["0.1.0"]]
 ["lune-std-luau",["0.1.0"]]
+["lune-std-process",["0.1.0"]]
+["lune-std-regex",["0.1.0"]]
 ["lune-std-serde",["0.1.0"]]
 ["lune-utils",["0.1.0"]]
 ["lunes",["0.7.1","0.6.1","0.6.0","0.5.2","0.5.1","0.4.0"]]
