@@ -678,6 +678,7 @@
 ["makepad-shader-ast-impl",["0.2.0","0.1.0"]]
 ["makepad-shader-compiler",["0.5.0","0.4.0","0.3.0"]]
 ["makepad-shell",["0.4.0"]]
+["makepad-stitch",["0.1.0"]]
 ["makepad-studio",["0.8.0","0.7.0","0.6.0","0.5.0","0.4.0"]]
 ["makepad-synth-ironfish",["0.6.0","0.5.0","0.4.0"]]
 ["makepad-tinyserde",["0.1.0"]]
