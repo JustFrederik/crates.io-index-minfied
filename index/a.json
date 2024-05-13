@@ -5107,6 +5107,7 @@
 ["arduino-cli-client",["0.1.2","0.1.1","0.1.0"]]
 ["arduino-esp",["0.0.2"]]
 ["arduino-leonardo",["0.1.3","0.1.2","0.1.1","0.1.0"]]
+["arduino-plotter",["0.1.0"]]
 ["arduino-run",["0.1.2","0.1.1","0.1.0"]]
 ["arduino-wifi-tft-lcd-canvas-server",["1.0.0"]]
 ["arduino_mkr1000",["0.5.0","0.4.0","0.3.0","0.2.0","0.1.1","0.1.0"]]
