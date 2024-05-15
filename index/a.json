@@ -6992,7 +6992,7 @@
 ["async_chunked_transfer",["1.4.0"]]
 ["async_closure",["0.1.2","0.1.1","0.1.0"]]
 ["async_command",["0.2.0","0.1.0"]]
-["async_counter",["0.1.0"]]
+["async_counter",["0.1.1","0.1.0"]]
 ["async_ctx",["0.1.1","0.1.0"]]
 ["async_dag",["0.1.2","0.1.0"]]
 ["async_dataloader",["0.1.3","0.1.2","0.1.1","0.1.0"]]
