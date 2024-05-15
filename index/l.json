@@ -3390,6 +3390,7 @@
 ["light-registry",["0.3.4"]]
 ["light-snowflake-connector",["0.1.1","0.1.0"]]
 ["light-system-program",["0.3.4"]]
+["light-test-utils",["0.1.4"]]
 ["light-user-registry",["0.3.0"]]
 ["light-utils",["0.1.4","0.1.1"]]
 ["light-verifier",["0.1.4","0.1.1"]]
