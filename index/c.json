@@ -5505,6 +5505,7 @@
 ["classic-core-test-tube",["0.2.0"]]
 ["classic-mceliece-rust",["2.0.2","3.0.0","2.0.1","2.0.0","1.1.0","1.0.1","1.0.0"]]
 ["classic-rust",["0.2.0","0.1.0"]]
+["classic-rust-genuine",["0.3.0"]]
 ["classic-sync",["0.4.4","0.4.3","0.4.2"]]
 ["classic-test-tube",["0.2.1","0.1.0"]]
 ["classic_bpf",["0.1.1"]]
