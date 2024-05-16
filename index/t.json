@@ -8942,6 +8942,8 @@
 ["type-key",["1.0.0","0.1.0"]]
 ["type-layout",["0.2.0","0.1.0"]]
 ["type-layout-derive",["0.2.0","0.1.0"]]
+["type-layout-syn2",["0.2.0"]]
+["type-layout-syn2-derive",["0.2.0"]]
 ["type-level",["0.0.1"]]
 ["type-level-logic",["0.1.0"]]
 ["type-map",["0.5.0","0.4.0","0.3.0","0.2.0"]]

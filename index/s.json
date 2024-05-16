@@ -1117,6 +1117,7 @@
 ["sbrsk",["0.1.0"]]
 ["sbs",["1.0.0","0.0.4","0.0.3","0.0.2"]]
 ["sbs-api-internal",["0.1.1"]]
+["sbs-api-macro",["0.1.0"]]
 ["sbtc-cli",["0.1.0"]]
 ["sbtc-core",["0.1.0"]]
 ["sbu-chain-spec-builder",[]]
