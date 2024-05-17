@@ -1249,6 +1249,7 @@
 ["kinobi-cli",["0.0.0"]]
 ["kinobi-idl",["0.0.0"]]
 ["kinobi-macro",["0.0.0"]]
+["kinobi-types",["0.0.0"]]
 ["kinode",["0.5.0"]]
 ["kinode_process_lib",["0.0.0-reserved"]]
 ["kinto_http",["0.1.0"]]
