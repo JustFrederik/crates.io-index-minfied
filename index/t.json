@@ -2756,6 +2756,7 @@
 ["tetris_gui",["0.1.1","0.1.0"]]
 ["tetromino",["0.1.3","0.1.2","0.1.1","0.1.0","0.0.0"]]
 ["tetromino-xlock-bindings",["0.1.0+v5.77"]]
+["tetromino-xlock-mode",["0.1.0"]]
 ["tetrs",["0.0.3"]]
 ["tetsu",["0.0.1","0.0.1-alpha.0"]]
 ["tetsy",["0.0.1"]]
