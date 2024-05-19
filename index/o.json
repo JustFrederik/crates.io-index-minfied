@@ -238,6 +238,7 @@
 ["objc2-external-accessory",["0.2.0"]]
 ["objc2-file-provider",["0.2.0"]]
 ["objc2-file-provider-ui",["0.2.0"]]
+["objc2-finder-sync",["0.0.0"]]
 ["objc2-foundation",["0.2.0","0.2.0-alpha.6","0.2.0-alpha.5","0.2.0-alpha.4","0.2.0-alpha.3","0.2.0-alpha.2","0.2.0-alpha.1","0.2.0-alpha.0","0.1.1"]]
 ["objc2-game-controller",["0.2.0"]]
 ["objc2-game-kit",["0.2.0"]]
