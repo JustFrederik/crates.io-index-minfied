@@ -1887,6 +1887,7 @@
 ["vortex-flatbuffers",["0.1.0"]]
 ["vortex-ipc",["0.1.0"]]
 ["vortex-raft",["0.1.0"]]
+["vortex-ree",["0.1.0"]]
 ["vortiTestProject",["0.1.0"]]
 ["vos",["0.0.0"]]
 ["vos-ast",["0.1.0","0.0.0"]]
