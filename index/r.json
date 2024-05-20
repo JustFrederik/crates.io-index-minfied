@@ -8467,6 +8467,7 @@
 ["rush-rs",["0.0.2-alpha.1","0.0.1"]]
 ["rush-shell",["0.1.1"]]
 ["rush-sys",["0.0.2-alpha.2","0.0.2-alpha.1","0.0.1"]]
+["rush-tunnel",["1.0.0"]]
 ["rush_core",["0.1.1","0.1.0"]]
 ["rush_expr_engine",["0.1.0"]]
 ["rush_lua_engine",["0.1.0"]]
