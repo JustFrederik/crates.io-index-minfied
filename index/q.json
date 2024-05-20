@@ -633,6 +633,8 @@
 ["quadprogpp-sys",["0.1.1","0.1.0"]]
 ["quadratic",["0.3.1","0.3.0","0.2.0","0.1.0"]]
 ["quadrature",["0.1.2","0.1.1","0.1.0"]]
+["quadrature-decoder",["0.1.0"]]
+["quadrature-encoder",["0.1.0"]]
 ["quads",["0.1.0"]]
 ["quadsort",[]]
 ["quadtree",["0.0.0"]]
