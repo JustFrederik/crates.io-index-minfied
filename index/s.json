@@ -14503,7 +14503,7 @@
 ["sync-async-runner",["0.1.0"]]
 ["sync-cell",["0.2.0"]]
 ["sync-extra",["0.1.0"]]
-["sync-ldap-subtrees",["0.2.1","0.2.0","0.1.2","0.1.0"]]
+["sync-ldap-subtrees",["0.2.2","0.2.1","0.2.0","0.1.2","0.1.0"]]
 ["sync-lsp",["0.1.0"]]
 ["sync-lsp-derive",["0.1.0"]]
 ["sync-pool",["0.0.0"]]
