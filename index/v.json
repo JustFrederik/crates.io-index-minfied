@@ -1886,6 +1886,7 @@
 ["vortex-expr",["0.1.0"]]
 ["vortex-fastlanes",["0.1.0"]]
 ["vortex-flatbuffers",["0.1.0"]]
+["vortex-format",["0.1.0"]]
 ["vortex-ipc",["0.1.0"]]
 ["vortex-raft",["0.1.0"]]
 ["vortex-ree",["0.1.0"]]
