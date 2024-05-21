@@ -4756,6 +4756,7 @@
 ["local-pool-with-id",["0.1.1","0.1.0"]]
 ["local-rcu",["1.0.4","1.0.3","1.0.2"]]
 ["local-reconstruction-code-gen",["0.1.0"]]
+["local-rolling-file",["1.1.0"]]
 ["local-socket",["0.1.0"]]
 ["local-spawn-pool",["0.1.0"]]
 ["local-sync",["0.1.1","0.1.0","0.0.5"]]
