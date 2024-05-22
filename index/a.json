@@ -8540,7 +8540,7 @@
 ["aws-lambda-extension",["0.0.0"]]
 ["aws-lambda-extensions",["0.0.0"]]
 ["aws-lambda-http",["0.0.0"]]
-["aws-lambda-log-proxy",["0.2.1","0.2.0","0.1.1","0.1.0"]]
+["aws-lambda-log-proxy",["0.3.0","0.2.1","0.2.0","0.1.1","0.1.0"]]
 ["aws-lambda-powertools",["0.0.0"]]
 ["aws-lambda-runtime",["0.0.0"]]
 ["aws-lambda-runtime-proxy",["0.2.1","0.2.0","0.1.1","0.1.0"]]
