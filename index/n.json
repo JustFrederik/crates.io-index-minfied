@@ -318,6 +318,7 @@
 ["nano",["0.1.0"]]
 ["nano-arrow",["0.0.0"]]
 ["nano-gemm-c32",["0.1.0"]]
+["nano-gemm-c64",["0.1.0"]]
 ["nano-gemm-codegen",["0.1.0"]]
 ["nano-gemm-core",["0.1.0"]]
 ["nano-gemm-f32",["0.1.0"]]
