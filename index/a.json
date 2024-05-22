@@ -2878,7 +2878,7 @@
 ["alloy-transport-http",["0.0.0-reserved"]]
 ["alloy-transport-ipc",["0.0.0-reserved"]]
 ["alloy-transport-ws",["0.0.0-reserved"]]
-["alloy-trie",["0.4.0","0.3.1","0.3.0","0.2.1","0.2.0","0.1.0"]]
+["alloy-trie",["0.4.1","0.4.0","0.3.1","0.3.0","0.2.1","0.2.0","0.1.0"]]
 ["alloy_graphene",["0.0.6"]]
 ["alloy_serde_macro",["0.1.2","0.1.1","0.1.0"]]
 ["alloyx-cpi",["0.0.3","0.0.2","0.0.1"]]
