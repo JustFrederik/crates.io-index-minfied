@@ -1947,7 +1947,7 @@
 ["ng-oxigraph",["0.4.0-alpha.7-ngpreview6"]]
 ["ng-repo",["0.1.0-preview.1"]]
 ["ng-rocksdb",["0.21.0-ngpreview.3"]]
-["ng-storage-rocksdb",["0.1.0-preview.5","0.1.0-preview.3","0.1.0-preview.1","0.1.0"]]
+["ng-storage-rocksdb",["0.1.0-preview.6"]]
 ["ng-tungstenite",["0.19.0"]]
 ["ng-verifier",["0.1.0-preview.5","0.1.0-preview.3","0.1.0-preview.2","0.1.0-preview.1","0.1.0-alpha","0.1.0"]]
 ["ng-wallet",["0.1.0-preview.5","0.1.0-preview.3","0.1.0-preview.1","0.1.0-alpha","0.1.0"]]
