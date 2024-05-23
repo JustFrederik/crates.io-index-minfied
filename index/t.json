@@ -7867,6 +7867,7 @@
 ["ts3plugin-sys",["0.4.0","0.3.0","0.2.0","0.1.0"]]
 ["ts_deplint",["0.0.5","0.0.4","0.0.3","0.0.2","0.0.1"]]
 ["ts_influxdb",["0.7.3-beta.1"]]
+["ts_lib",["0.1.0"]]
 ["ts_observing_environment",["0.2.0-alpha.2","0.2.0-alpha.1"]]
 ["ts_opentelemetry",["0.20.0-beta.1"]]
 ["ts_opentelemetry_api",["0.20.0-beta.1"]]
