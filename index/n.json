@@ -1944,7 +1944,7 @@
 ["ng-clp",["0.3.1","0.3.0","0.2.1","0.2.0","0.1.1","0.1.0"]]
 ["ng-log",["0.1.1"]]
 ["ng-net",["0.1.0-preview.1"]]
-["ng-oxigraph",["0.4.0-alpha.7-ngpreview5","0.4.0-alpha.7-ngpreview3","0.4.0-alpha.7-ngpreview2","0.4.0-alpha.7-ngpreview","0.4.0-alpha.8-ng","0.4.0-alpha.7-ng"]]
+["ng-oxigraph",["0.4.0-alpha.7-ngpreview6"]]
 ["ng-repo",["0.1.0-preview.1"]]
 ["ng-rocksdb",["0.21.0-ngpreview.3"]]
 ["ng-storage-rocksdb",["0.1.0-preview.5","0.1.0-preview.3","0.1.0-preview.1","0.1.0"]]
