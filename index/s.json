@@ -2972,6 +2972,7 @@
 ["serai-dex-primitives",["0.0.1"]]
 ["serai-docker-tests",["0.1.0"]]
 ["serai-env",["0.1.0"]]
+["serai-ethereum-relayer",["0.1.0"]]
 ["serai-full-stack-tests",["0.1.0"]]
 ["serai-in-instructions-pallet",["0.1.0"]]
 ["serai-in-instructions-primitives",["0.1.0"]]
