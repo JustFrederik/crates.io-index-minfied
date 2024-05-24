@@ -2384,6 +2384,7 @@
 ["libnethsm",["0.0.1"]]
 ["libnetkeeper",["0.1.0"]]
 ["libnetrangemerge",["0.1.0"]]
+["libnewton",["2.0.0-beta"]]
 ["libnfc-rs",[]]
 ["libnfd",["0.2.3","0.2.2","0.2.1","0.2.0","0.1.2","0.1.1"]]
 ["libnfqueue",["0.1.0"]]
