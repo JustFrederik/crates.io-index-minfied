@@ -3769,6 +3769,7 @@
 ["hyper-hickory",["0.7.0","0.6.0"]]
 ["hyper-hickory-dns",["0.1.0"]]
 ["hyper-http-connector",["0.1.0"]]
+["hyper-http-proxy",["1.0.0"]]
 ["hyper-json-server",["0.1.0"]]
 ["hyper-method-override-middleware",["1.0.0","0.1.0"]]
 ["hyper-metrics",["0.0.0"]]
