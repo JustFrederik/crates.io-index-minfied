@@ -397,6 +397,7 @@
 ["xenevtchn-sys",["0.1.2"]]
 ["xenforeignmemory",["0.2.3","0.2.2","0.2.1","0.1.0"]]
 ["xenforeignmemory-sys",["0.1.0"]]
+["xenia",["0.0.1"]]
 ["xeno",["0.1.0"]]
 ["xeno-rs",["0.1.1","0.1.0"]]
 ["xenon",["0.1.0"]]
