@@ -5329,6 +5329,8 @@
 ["ark-circom",["0.1.0"]]
 ["ark-cp6-782",["0.4.0","0.4.0-alpha.2","0.4.0-alpha.1","0.3.0","0.2.0"]]
 ["ark-crypto-primitives",["0.4.0","0.4.0-alpha","0.3.0","0.2.0"]]
+["ark-crypto-primitives-macros-zypher",["0.4.0"]]
+["ark-crypto-primitives-zypher",["0.4.0"]]
 ["ark-curve-constraint-tests",["0.4.0","0.4.0-alpha.2","0.4.0-alpha.1","0.3.0","0.2.0"]]
 ["ark-curve25519",["0.4.0","0.4.0-alpha.2","0.4.0-alpha.1"]]
 ["ark-ec",["0.4.2","0.4.2-alpha.1","0.4.1","0.4.0","0.4.0-alpha.7","0.4.0-alpha.6","0.4.0-alpha.5","0.4.0-alpha.4","0.4.0-alpha.3","0.4.0-alpha.1","0.4.0-alpha.0","0.3.0","0.2.0"]]
