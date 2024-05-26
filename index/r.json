@@ -1765,7 +1765,7 @@
 ["rclrust-msg-gen",["0.0.2"]]
 ["rclrust-msg-parser",[]]
 ["rclrust-msg-types",[]]
-["rclua",["0.0.2","0.0.1"]]
+["rclua",["1.0.0","0.0.2","0.0.1"]]
 ["rcm",["0.1.0"]]
 ["rcman-rs",[]]
 ["rcmark",["0.1.0"]]
