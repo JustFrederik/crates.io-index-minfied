@@ -5524,7 +5524,7 @@
 ["simple-rijndael",["0.3.2","0.3.1","0.3.0","0.2.0"]]
 ["simple-rlp",["0.1.0"]]
 ["simple-rnd",["0.9.1","0.9.0"]]
-["simple-rust-lib-template",["0.1.1","0.1.0"]]
+["simple-rust-lib-template",["0.1.2","0.1.1","0.1.0"]]
 ["simple-rw-global",["0.5.0","0.4.0","0.3.0","0.2.1","0.2.0","0.1.0"]]
 ["simple-rwlock",["0.0.1"]]
 ["simple-scheduler",["0.1.0"]]
