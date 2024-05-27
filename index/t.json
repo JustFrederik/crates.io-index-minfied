@@ -7045,7 +7045,7 @@
 ["tree-sitter-d",["0.3.8"]]
 ["tree-sitter-dart",["0.0.4","0.0.3","0.0.2","0.0.1"]]
 ["tree-sitter-dart-latest",["0.0.1"]]
-["tree-sitter-deb822",["0.2.1","0.1.0"]]
+["tree-sitter-deb822",["0.3.0","0.2.1","0.1.0"]]
 ["tree-sitter-devicetree",["0.10.0"]]
 ["tree-sitter-dockerfile",["0.2.0","0.1.0","0.0.1"]]
 ["tree-sitter-dot",["0.1.6","0.1.5","0.1.4","0.1.1"]]
