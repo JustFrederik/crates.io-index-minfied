@@ -4522,8 +4522,6 @@
 ["docker-test-for-trying-out-jenkins",["0.1.1","0.1.0"]]
 ["docker-update-hosts",["0.0.2","0.0.1"]]
 ["docker-volume",["0.1.1"]]
-["docker4rs",["0.0.1","0.0.0"]]
-["docker4rst",[]]
 ["docker_client",["0.1.0-alpha4","0.1.0-alpha3","0.1.0-alpha2"]]
 ["docker_compose",[]]
 ["docker_credential",["1.3.1","1.3.0","1.2.4","1.2.3","1.2.2","1.2.1","1.2.0","1.1.0","1.0.1","1.0.0"]]
