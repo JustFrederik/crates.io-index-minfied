@@ -4658,7 +4658,7 @@
 ["apt-rs",["0.2.1","0.1.1","0.1.0"]]
 ["apt-sources-lists",[]]
 ["apt-swarm",["0.1.0"]]
-["apt-transport-blob",["0.1.0"]]
+["apt-transport-blob",["0.2.0","0.1.0"]]
 ["apter",["0.1.0"]]
 ["aptos",[]]
 ["aptos-accumulator",[]]
