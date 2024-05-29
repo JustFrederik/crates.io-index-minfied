@@ -1727,7 +1727,7 @@
 ["delegate-display",["2.1.1","2.1.0","2.0.0","1.0.8","1.0.7","1.0.6","1.0.5","1.0.4","1.0.3","1.0.2","1.0.1"]]
 ["delegate-trait-impl",["0.1.0-dev"]]
 ["delegatemethod",["0.2.2","0.2.1","0.2.0","0.1.1","0.1.0"]]
-["delegation-program-sdk",["0.0.1"]]
+["delegation-program-sdk",["0.0.2","0.0.1"]]
 ["delegator",["3.0.0"]]
 ["delete",["1.0.1","1.0.0"]]
 ["delete-rest",[]]
