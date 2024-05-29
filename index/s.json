@@ -13599,7 +13599,7 @@
 ["surrealdb-obj-derive-macro",["0.1.0"]]
 ["surrealdb-orm",["0.1.0"]]
 ["surrealdb-query",["0.1.0"]]
-["surrealdb-simple-migration",["0.1.0"]]
+["surrealdb-simple-migration",["0.2.0","0.1.0"]]
 ["surrealdb-sql",["1.1.0","1.0.0-rc"]]
 ["surrealdb-tikv-client",["0.2.0-surreal.2","0.2.0-surreal.1","0.1.0-surreal.2","0.1.0-surreal.1"]]
 ["surrealdb-tikv-client-common",["0.1.0-surreal.2","0.1.0-surreal.1"]]
