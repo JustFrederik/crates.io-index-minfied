@@ -852,6 +852,8 @@
 ["ohnomore",["0.5.0","0.4.0","0.3.0","0.2.2","0.2.1","0.2.0"]]
 ["ohnomore-utils",["0.5.0"]]
 ["ohol_public_data",["0.1.0"]]
+["ohos-bundle-binding",["0.0.1"]]
+["ohos-bundle-sys",["0.0.1"]]
 ["ohos-cli",["0.1.0"]]
 ["ohos-hilog-binding",["0.0.1"]]
 ["ohos-image-binding",["0.0.1"]]
