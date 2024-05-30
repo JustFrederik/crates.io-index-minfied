@@ -3782,6 +3782,7 @@
 ["linera",["0.0.1"]]
 ["linera-alloy-json-abi",["0.7.4"]]
 ["linera-alloy-primitives",["0.7.4"]]
+["linera-alloy-sol-macro",["0.7.4"]]
 ["linera-alloy-sol-macro-expander",["0.7.4"]]
 ["linera-alloy-sol-macro-input",["0.7.4"]]
 ["linera-alloy-sol-type-parser",["0.7.4"]]
