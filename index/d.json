@@ -601,7 +601,7 @@
 ["datadog-appsec",["0.1.0"]]
 ["datadog-asm",["0.1.0"]]
 ["datadog-client",["0.2.0","0.1.1","0.1.0"]]
-["datadog-formatting-layer",["2.2.0","2.1.0","2.0.0","1.1.0","1.0.1","1.0.0"]]
+["datadog-formatting-layer",["2.2.1","2.2.0","2.1.0","2.0.0","1.1.0","1.0.1","1.0.0"]]
 ["datadog-internal-telemetry",["0.1.0"]]
 ["datadog-logs",["0.2.1","0.2.0","0.1.0"]]
 ["datadog-profiler",["0.1.0"]]
