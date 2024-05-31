@@ -3793,6 +3793,7 @@
 ["linera-alloy-node-bindings",["0.1.0"]]
 ["linera-alloy-primitives",["0.7.4"]]
 ["linera-alloy-rpc-types",["0.1.0"]]
+["linera-alloy-rpc-types-anvil",["0.1.0"]]
 ["linera-alloy-rpc-types-engine",["0.1.0"]]
 ["linera-alloy-serde",["0.1.0"]]
 ["linera-alloy-signer",["0.1.0"]]
