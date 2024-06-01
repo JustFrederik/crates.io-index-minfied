@@ -3802,6 +3802,8 @@
 ["linera-alloy-signer-aws",["0.1.0"]]
 ["linera-alloy-signer-gcp",["0.1.0"]]
 ["linera-alloy-signer-ledger",["0.1.0"]]
+["linera-alloy-signer-trezor",["0.1.0"]]
+["linera-alloy-signer-wallet",["0.1.0"]]
 ["linera-alloy-sol-macro",["0.7.4"]]
 ["linera-alloy-sol-macro-expander",["0.7.4"]]
 ["linera-alloy-sol-macro-input",["0.7.4"]]
