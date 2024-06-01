@@ -6578,6 +6578,7 @@
 ["tracklib",["0.3.0","0.2.0","0.1.0"]]
 ["trackme",["0.1.0"]]
 ["trackme-backends",["0.1.0"]]
+["trackpad_haptic",["0.1.0"]]
 ["trackr",["0.1.1","0.1.0"]]
 ["trackr_derive",["0.1.1","0.1.0"]]
 ["tracks",["0.1.0"]]
