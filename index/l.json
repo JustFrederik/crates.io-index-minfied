@@ -3792,6 +3792,7 @@
 ["linera-alloy-network",["0.1.0"]]
 ["linera-alloy-node-bindings",["0.1.0"]]
 ["linera-alloy-primitives",["0.7.4"]]
+["linera-alloy-provider",["0.1.0"]]
 ["linera-alloy-pubsub",["0.1.0"]]
 ["linera-alloy-rpc-client",["0.1.0"]]
 ["linera-alloy-rpc-types",["0.1.0"]]
