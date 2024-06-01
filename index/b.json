@@ -5163,6 +5163,7 @@
 ["borrow-owned",["0.1.0"]]
 ["borrow_as",["0.1.0"]]
 ["borrow_db",[]]
+["borrow_mutex",["0.1.0"]]
 ["borrow_trait",["0.1.1","0.1.0"]]
 ["borrow_with_ref_obj",["0.1.3","0.1.2","0.1.1","0.1.0"]]
 ["borrowck_sacrifices",["0.1.0"]]
