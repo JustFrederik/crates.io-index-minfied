@@ -3796,6 +3796,7 @@
 ["linera-alloy-rpc-types-anvil",["0.1.0"]]
 ["linera-alloy-rpc-types-beacon",["0.1.0"]]
 ["linera-alloy-rpc-types-engine",["0.1.0"]]
+["linera-alloy-rpc-types-trace",["0.1.0"]]
 ["linera-alloy-serde",["0.1.0"]]
 ["linera-alloy-signer",["0.1.0"]]
 ["linera-alloy-sol-macro",["0.7.4"]]
