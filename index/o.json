@@ -234,6 +234,7 @@
 ["objc2-encode",["4.0.3","4.0.1","4.0.0","3.0.0","2.0.0","2.0.0-pre.4","2.0.0-pre.3","2.0.0-pre.2","2.0.0-pre.1","2.0.0-pre.0","2.0.0-beta.2","2.0.0-beta.1","2.0.0-beta.0","2.0.0-alpha.1","2.0.0-alpha.0","1.1.0"]]
 ["objc2-event-kit",["0.2.2","0.2.0"]]
 ["objc2-exception-handling",["0.2.2","0.2.0"]]
+["objc2-exception-helper",["0.1.0"]]
 ["objc2-extension-kit",["0.2.2","0.2.0"]]
 ["objc2-external-accessory",["0.2.2","0.2.0"]]
 ["objc2-file-provider",["0.2.2","0.2.0"]]
