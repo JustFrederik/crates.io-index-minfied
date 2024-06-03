@@ -872,7 +872,7 @@
 ["wasm-wrapper-gen-build",["0.0.3","0.0.2","0.0.1"]]
 ["wasm-wrapper-gen-impl",["0.0.3","0.0.2","0.0.1"]]
 ["wasm-wrapper-gen-shared",["0.0.3","0.0.2","0.0.1"]]
-["wasm-ws",["0.1.1","0.1.0"]]
+["wasm-ws",["0.2.0","0.1.1","0.1.0"]]
 ["wasm-yew-canvas-checkcode",["0.1.0"]]
 ["wasm-zkvm",["0.1.0"]]
 ["wasm2map",["0.1.0"]]
