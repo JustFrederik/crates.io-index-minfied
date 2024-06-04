@@ -5747,6 +5747,7 @@
 ["possum-script",["0.1.0"]]
 ["possum-wasm",["0.1.0"]]
 ["post",["0.0.1-alpha.1"]]
+["post-archiver",["0.0.0"]]
 ["post-clock",["0.1.1"]]
 ["post-expansion",[]]
 ["post-incr",["0.1.0"]]
