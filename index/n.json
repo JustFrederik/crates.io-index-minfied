@@ -2641,7 +2641,7 @@
 ["nodarium_macros",["0.1.0"]]
 ["nodarium_types",["0.1.0"]]
 ["nodarium_utils",["0.1.0"]]
-["nodb",["0.1.0"]]
+["nodb",["0.2.0","0.1.0"]]
 ["node",["0.0.1-pre.1"]]
 ["node-api-rs",[]]
 ["node-api-sys",[]]
