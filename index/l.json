@@ -2788,7 +2788,7 @@
 ["libreda-logic",["0.0.3","0.0.2"]]
 ["libreda-oasis",["0.0.5","0.0.4","0.0.3","0.0.2","0.0.1"]]
 ["libreda-pnr",["0.0.4","0.0.0"]]
-["libreda-splay",["0.1.0"]]
+["libreda-splay",["0.1.1","0.1.0"]]
 ["libreda-sta",["0.0.1"]]
 ["libreda-stream-parser",["0.2.0"]]
 ["libreda-structural-verilog",["0.0.4","0.0.3"]]
