@@ -8470,6 +8470,7 @@
 ["runtime",["0.3.0-alpha.8","0.3.0-alpha.7","0.3.0-alpha.6","0.3.0-alpha.5","0.3.0-alpha.4","0.3.0-alpha.3","0.3.0-alpha.2","0.3.0-alpha.1","0.0.0"]]
 ["runtime-attributes",["0.3.0-alpha.6","0.3.0-alpha.5","0.3.0-alpha.4","0.3.0-alpha.3","0.3.0-alpha.2","0.3.0-alpha.1","0.0.0"]]
 ["runtime-contracts",["0.2.0","0.1.3","0.1.2","0.1.1","0.1.0"]]
+["runtime-environment",["0.1.0"]]
 ["runtime-error",["0.0.0"]]
 ["runtime-fmt",["0.4.1","0.4.0","0.3.0","0.2.0","0.1.0"]]
 ["runtime-fmt-derive",["0.2.0"]]
