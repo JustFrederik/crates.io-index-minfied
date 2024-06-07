@@ -1803,6 +1803,7 @@
 ["agave-storage-bigtable",["0.1.0"]]
 ["agave-storage-program",["0.1.0"]]
 ["agave-storage-proto",["0.1.0"]]
+["agave-store-tool",["0.0.0"]]
 ["agave-streamer",["0.1.0"]]
 ["agave-svm",["0.1.0"]]
 ["agave-sys-tuner",["0.1.0"]]
