@@ -686,6 +686,7 @@
 ["gdext-egui",["0.0.0"]]
 ["gdext-utils",["0.0.0"]]
 ["gdextension",["0.0.1"]]
+["gdextension-api",["0.0.0"]]
 ["gdhcocos-rs",["1.0.0"]]
 ["gdhttp",["1.0.3","1.0.2","1.0.1","1.0.0"]]
 ["gdhuguessinggame",["0.1.0"]]
