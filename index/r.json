@@ -9038,7 +9038,7 @@
 ["rust-codecov",["0.1.0"]]
 ["rust-codegen",["0.1.1","0.1.0"]]
 ["rust-color",["0.1.0"]]
-["rust-colors",["0.1.1","0.1.0"]]
+["rust-colors",["0.2.0","0.1.1","0.1.0"]]
 ["rust-command-opt",["0.1.0"]]
 ["rust-companion",["0.1.1","0.1.0"]]
 ["rust-compile",["0.1.0"]]
