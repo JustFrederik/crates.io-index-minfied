@@ -1323,7 +1323,7 @@
 ["unsize",["1.1.0","1.0.0","1.0.0-beta.1","1.0.0-beta"]]
 ["unsized-maybe-uninit",["0.0.0"]]
 ["unsized-stack",["0.2.0"]]
-["unsized-vec",["0.0.2-alpha.10","0.0.2-alpha.9"]]
+["unsized-vec",["0.0.2-alpha.11","0.0.2-alpha.10","0.0.2-alpha.9"]]
 ["unsized_enum",["0.0.2","0.0.1"]]
 ["unslip",["0.1.0"]]
 ["unsolicited-advice",["0.1.0"]]
