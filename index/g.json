@@ -5075,6 +5075,7 @@
 ["graphql-to-jddf",["0.1.0"]]
 ["graphql-toolkit",["0.0.0"]]
 ["graphql-toolkit-ast",["0.1.2","0.1.1","0.1.0","0.0.0"]]
+["graphql-toolkit-composer",["0.0.0"]]
 ["graphql-toolkit-parser",["0.1.2","0.1.1","0.0.0"]]
 ["graphql-toolkit-value",["0.1.1","0.1.0","0.0.0"]]
 ["graphql-toolkit-writer",["0.1.1","0.1.0","0.0.0"]]
