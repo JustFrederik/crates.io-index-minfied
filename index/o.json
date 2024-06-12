@@ -1997,7 +1997,7 @@
 ["opentalk-etherpad-client",["0.2.0","0.1.0","0.0.0"]]
 ["opentalk-janus-client",["0.3.1","0.3.0","0.2.0","0.1.0","0.0.0"]]
 ["opentalk-janus-media",["0.0.0"]]
-["opentalk-keycloak-admin",["0.1.0","0.0.0"]]
+["opentalk-keycloak-admin",["0.2.0","0.1.0","0.0.0"]]
 ["opentalk-kustos-prefix",["0.15.0-alpha","0.11.0","0.13.0-alpha","0.10.0","0.11.0-rc.2","0.12.0-alpha.1","0.12.0-alpha","0.11.0-alpha","0.10.0-rc.1","0.9.0","0.9.0-alpha","0.8.0-rc.1"]]
 ["opentalk-kustos-prefix-impl",["0.15.0-alpha","0.11.0","0.13.0-alpha","0.10.0","0.11.0-rc.2","0.12.0-alpha.1","0.12.0-alpha","0.11.0-alpha","0.10.0-rc.1","0.9.0","0.9.0-alpha","0.8.0-rc.1"]]
 ["opentalk-mail-worker-protocol",["0.0.0"]]
