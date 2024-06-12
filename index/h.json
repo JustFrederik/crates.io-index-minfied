@@ -646,6 +646,7 @@
 ["hashindexed",["0.1.1","0.1.0"]]
 ["hashing-copy",["0.3.0","0.2.0","0.1.1","0.1.0"]]
 ["hashing-reader",["0.1.0"]]
+["hashing-serializer",["0.1.1","0.1.0"]]
 ["hashira",["0.0.2-alpha","0.0.1-alpha"]]
 ["hashira-actix-web",["0.0.2-alpha","0.0.1-alpha"]]
 ["hashira-axum",["0.0.2-alpha","0.0.1-alpha"]]
