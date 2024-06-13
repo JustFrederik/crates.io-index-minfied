@@ -2900,6 +2900,7 @@
 ["alloy-signer-aws",["0.0.0-reserved"]]
 ["alloy-signer-gcp",["0.0.0-reserved"]]
 ["alloy-signer-ledger",["0.0.0-reserved"]]
+["alloy-signer-local",["0.0.0-reserved"]]
 ["alloy-signer-trezor",["0.0.0-reserved"]]
 ["alloy-signer-wallet",["0.0.0-reserved"]]
 ["alloy-signers",[]]
