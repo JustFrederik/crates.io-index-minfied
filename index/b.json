@@ -6206,6 +6206,7 @@
 ["bsky",["0.0.0-placeholder.0"]]
 ["bsky-rs",["0.0.1"]]
 ["bsky-rs-models",["0.0.1"]]
+["bsky-sdk",["0.1.0"]]
 ["bsky_cmdl",["0.1.0"]]
 ["bsky_jennings",["0.1.0"]]
 ["bsky_tui",["0.0.3","0.0.2","0.0.1"]]
