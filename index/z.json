@@ -1000,7 +1000,7 @@
 ["zk-wasmi",["0.0.1"]]
 ["zk-wasmtime",["0.0.1"]]
 ["zkA",["0.1.0"]]
-["zk_database",["0.1.0"]]
+["zk_database",["0.1.1","0.1.0"]]
 ["zk_hack_pendzl_lang_codegen",["0.0.1"]]
 ["zk_merkle_tree",["0.1.0"]]
 ["zk_secp256k1",["0.1.0"]]
