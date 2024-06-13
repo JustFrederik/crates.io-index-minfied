@@ -6213,6 +6213,7 @@
 ["monero-serai-rpc",["0.0.1"]]
 ["monero-vanity",["0.4.1","0.4.0"]]
 ["monero-wallet",["0.0.1"]]
+["monero-wallet-core",["0.0.1"]]
 ["monero-wallet-util",["0.0.1"]]
 ["monero-wire",["0.0.0-placeholder"]]
 ["monero_client",["0.0.1"]]
