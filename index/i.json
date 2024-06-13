@@ -455,6 +455,7 @@
 ["ice_lite",["0.0.0"]]
 ["iceball",["0.0.1"]]
 ["iceberg",["0.2.0","0.1.0"]]
+["iceberg-catalog",["0.0.0"]]
 ["iceberg-catalog-hms",["0.2.0"]]
 ["iceberg-catalog-rest",["0.2.0"]]
 ["iceberg-catalog-sql",["0.2.0","0.1.0"]]
