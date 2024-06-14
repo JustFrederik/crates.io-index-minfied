@@ -7240,7 +7240,7 @@
 ["tree-sitter-qmldir",["0.0.1"]]
 ["tree-sitter-qmljs",["0.1.2","0.1.1","0.1.0"]]
 ["tree-sitter-query",["0.1.0"]]
-["tree-sitter-r",["0.19.5","0.19.4","0.19.3"]]
+["tree-sitter-r",["1.0.0","0.19.5","0.19.4","0.19.3"]]
 ["tree-sitter-regex",["0.21.0","0.20.0"]]
 ["tree-sitter-rigz",["0.0.1"]]
 ["tree-sitter-ron",["0.1.0","0.2.0"]]
