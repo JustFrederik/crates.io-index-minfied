@@ -1810,7 +1810,7 @@
 ["tencent_scf_derive",["0.1.0"]]
 ["tencent_sms",["0.1.2","0.1.1","0.1.0"]]
 ["tencentcloud",["0.2.2","0.2.1","0.2.0","0.2.0-alpha1","0.1.1"]]
-["tencentcloud-cls-sdk-rust",["0.0.2","0.0.1"]]
+["tencentcloud-cls-sdk-rust",["0.0.3","0.0.2","0.0.1"]]
 ["tencentcloud-sdk-rs",["0.1.0"]]
 ["tencentcloud-sdk-sms",["0.2.1","0.2.0","0.1.1","0.1.0"]]
 ["tencentcloud-sdk-sms-wasi",["0.2.1"]]
