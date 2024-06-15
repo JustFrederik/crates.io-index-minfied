@@ -1374,7 +1374,7 @@
 ["marsh",[]]
 ["marshacb_art",["0.1.0"]]
 ["marshal",["0.0.0"]]
-["marshal-parser",["0.1.0"]]
+["marshal-parser",["0.1.1","0.1.0"]]
 ["marshall_derive",["0.1.1","0.1.0"]]
 ["marshmallow_fm",[]]
 ["marshmallow_gl_bindings",[]]
