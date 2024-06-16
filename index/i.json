@@ -206,7 +206,7 @@
 ["ianaio-dialogs",["0.1.1","0.1.0"]]
 ["ianaio-events",["0.1.0"]]
 ["ianaio-file",["0.1.0"]]
-["ianaio-file-hash",["0.1.0"]]
+["ianaio-file-hash",["0.1.1","0.1.0"]]
 ["ianaio-history",["0.1.0"]]
 ["ianaio-history-wasi",["0.1.0"]]
 ["ianaio-net",["0.1.0"]]
