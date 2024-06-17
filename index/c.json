@@ -10373,6 +10373,7 @@
 ["croner-scheduler",["0.0.12","0.0.11","0.0.10"]]
 ["cronic",["0.1.0"]]
 ["cronista",["0.1.0"]]
+["cronitor",["0.1.0"]]
 ["cronitor_macro",["0.1.0"]]
 ["cronitor_runtime",["0.1.0"]]
 ["cronjob",["0.4.17","0.3.17","0.2.17"]]
