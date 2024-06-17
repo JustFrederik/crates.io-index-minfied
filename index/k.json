@@ -1278,7 +1278,7 @@
 ["kinobi-macro",["0.0.0"]]
 ["kinobi-types",["0.0.0"]]
 ["kinode",["0.5.0"]]
-["kinode_process_lib",["0.0.0-reserved"]]
+["kinode_process_lib",["0.8.3","0.0.0-reserved"]]
 ["kinto_http",["0.1.0"]]
 ["kintone-rs",["0.3.2","0.3.1","0.3.0","0.2.0","0.1.0"]]
 ["kio",["0.2.0","0.1.0"]]
