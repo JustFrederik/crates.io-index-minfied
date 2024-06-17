@@ -2982,7 +2982,7 @@
 ["regex-cursor",["0.1.4","0.1.3","0.1.2","0.1.1","0.1.0"]]
 ["regex-decode",["0.1.0"]]
 ["regex-dfa-gen",["0.1.0"]]
-["regex-filtered",["0.1.0"]]
+["regex-filtered",["0.1.1","0.1.0"]]
 ["regex-generator",["0.1.0"]]
 ["regex-intersect",["1.2.0","1.1.0","1.0.0"]]
 ["regex-lexer",["0.2.0","0.1.1","0.1.0"]]
