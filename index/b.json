@@ -6139,7 +6139,7 @@
 ["brush",[]]
 ["brush-core",["0.1.0"]]
 ["brush-interactive",["0.1.0"]]
-["brush-parser",["0.1.0"]]
+["brush-parser",["0.2.1","0.1.0"]]
 ["brush-rustyline-fork",["14.0.1"]]
 ["brush-shell",["0.1.0"]]
 ["brush_contracts",["1.8.0"]]
