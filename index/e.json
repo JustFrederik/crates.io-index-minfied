@@ -2719,6 +2719,7 @@
 ["enum_for_matches",["0.1.1","0.1.0"]]
 ["enum_from_str",["0.1.0"]]
 ["enum_from_str_derive",["0.1.0"]]
+["enum_from_variant",["0.1.0"]]
 ["enum_future",["0.1.0"]]
 ["enum_helpers",["0.0.4","0.0.3","0.0.2","0.0.1"]]
 ["enum_index",["0.2.0","0.1.1","0.1.0"]]
