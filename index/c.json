@@ -2270,7 +2270,7 @@
 ["cargo-stack",["0.1.0"]]
 ["cargo-stdout-parser",["0.0.0"]]
 ["cargo-stdx-check",["0.1.2","0.1.1","0.1.0"]]
-["cargo-steady-state",["0.0.5"]]
+["cargo-steady-state",["0.0.17","0.0.5"]]
 ["cargo-stress",["0.1.0"]]
 ["cargo-strip",["0.2.3","0.2.2","0.2.1","0.2.0"]]
 ["cargo-structure",["0.4.1","0.4.0","0.3.0","0.2.0","0.1.1","0.1.0"]]
