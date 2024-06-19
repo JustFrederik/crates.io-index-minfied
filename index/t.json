@@ -467,7 +467,7 @@
 ["tantivy-stemmers",["0.3.0","0.2.0","0.1.0"]]
 ["tantivy-tokenizer-api",["0.3.0","0.2.0","0.1.1","0.1.0"]]
 ["tantivy-tokenizer-tiny-segmenter",["0.3.0","0.2.0","0.1.0"]]
-["tantivy-uffd",["0.1.0"]]
+["tantivy-uffd",["0.1.1","0.1.0"]]
 ["tantivy-vibrato",["0.3.0"]]
 ["tantivy_warc_indexer",["0.2.0"]]
 ["tanton",["1.0.0"]]
