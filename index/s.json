@@ -8269,6 +8269,7 @@
 ["solidity-bindgen-macros",["0.1.0"]]
 ["solidity-metadata",["1.0.0"]]
 ["solidrs",["0.4.0","0.3.1","0.3.0","0.2.0","0.1.1","0.1.0"]]
+["solink-tracing-flat-json",["1.0.0"]]
 ["solitaire",["0.0.1"]]
 ["solitaire-assets",["0.0.1"]]
 ["solitaire-client",["0.0.1"]]
