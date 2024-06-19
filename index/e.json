@@ -4296,6 +4296,7 @@
 ["event-web",["0.1.0"]]
 ["event_dispatcher",["0.0.2","0.0.1"]]
 ["event_feed",["0.1.0"]]
+["event_iterator",["0.1.0"]]
 ["event_log_converter",["0.2.1","0.2.0","0.1.1","0.1.0"]]
 ["event_parser",["0.1.1","0.1.0"]]
 ["event_rust",["0.1.1","0.1.0"]]
