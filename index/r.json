@@ -4227,6 +4227,8 @@
 ["revmc-build",["0.0.0-reserved"]]
 ["revmc-builtins",["0.0.0-reserved"]]
 ["revmc-cli",["0.0.0-reserved"]]
+["revmc-context",["0.0.0-reserved"]]
+["revmc-cranelift",["0.0.0-reserved"]]
 ["revme",["0.5.0","0.4.0","0.3.1","0.3.0","0.2.2","0.2.1","0.2.0","0.1.0"]]
 ["revmenu",["0.1.2","0.1.1","0.1.0"]]
 ["revocatio",["0.1.1","0.1.0"]]
