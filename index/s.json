@@ -8120,7 +8120,7 @@
 ["solana_bank",["0.1.0"]]
 ["solana_data_structs",["0.2.0","0.1.1","0.1.0"]]
 ["solana_ed25519_verify",["0.1.1","0.1.0"]]
-["solana_idl",["0.0.4","0.0.3","0.0.2","0.0.1"]]
+["solana_idl",["0.1.0","0.0.4","0.0.3","0.0.2","0.0.1"]]
 ["solana_libra_build_helpers",["0.0.0","0.0.0-sol15"]]
 ["solana_libra_bytecode_verifier",["0.0.1-sol5","0.0.1-sol4","0.0.0","0.0.0-sol15"]]
 ["solana_libra_canonical_serialization",["0.0.1-sol5","0.0.1-sol4","0.0.1-sol3","0.0.0","0.0.0-sol15"]]
