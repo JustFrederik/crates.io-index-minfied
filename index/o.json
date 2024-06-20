@@ -2943,7 +2943,7 @@
 ["osu-beatmap-parser",["0.14.0"]]
 ["osu-db",["0.3.0","0.2.0","0.1.0"]]
 ["osu-file-parser",["1.1.0","1.0.1","1.0.0"]]
-["osu-lazer-manager",["1.0.0"]]
+["osu-lazer-manager",["1.0.1","1.0.0"]]
 ["osu-pi",["0.1.0"]]
 ["osu-replay-parser",["0.2.0","0.1.0"]]
 ["osu_format",["0.1.1","0.1.0"]]
