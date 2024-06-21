@@ -4199,7 +4199,7 @@
 ["shaderfuzz",["0.0.0"]]
 ["shadergarden",["0.2.0"]]
 ["shadergraph",["0.1.0"]]
-["shadermagic",["0.1.0"]]
+["shadermagic",["0.1.2","0.1.0"]]
 ["shaders_graphics2d_gles",["0.2.0","0.1.0"]]
 ["shadertest",["0.0.0"]]
 ["shadertoy",["0.6.1","0.6.0","0.5.0","0.4.1","0.4.0","0.3.0","0.1.2","0.1.1"]]
