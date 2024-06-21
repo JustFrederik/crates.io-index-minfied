@@ -6597,6 +6597,7 @@
 ["tracing-serde-structured",["0.2.0","0.1.1","0.1.0"]]
 ["tracing-serde-subscriber",["0.2.0","0.1.2","0.1.1","0.1.0"]]
 ["tracing-serde-wire",["0.1.1","0.1.0"]]
+["tracing-setup",["0.1.0"]]
 ["tracing-shared",["0.1.5","0.1.4","0.1.3","0.1.1"]]
 ["tracing-slf4j",["0.1.0"]]
 ["tracing-slog",["0.3.0","0.2.0","0.1.0"]]
