@@ -3967,6 +3967,7 @@
 ["micronfig_macros",["0.3.0"]]
 ["micropass",["0.1.1","0.1.0"]]
 ["micropelt",["0.1.0"]]
+["micropelt-derive",["0.1.0"]]
 ["micropelt-mlr003",[]]
 ["microperf",["0.1.6","0.1.3","0.1.1"]]
 ["micropnm",["0.1.0"]]

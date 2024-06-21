@@ -6452,7 +6452,7 @@
 ["tracebuild",["0.3.0","0.2.0","0.1.0"]]
 ["tracecontext",[]]
 ["traced",[]]
-["traced-test",["0.1.0"]]
+["traced-test",["0.2.0","0.1.0"]]
 ["tracefp",["0.0.1"]]
 ["traceidr",["1.0.0"]]
 ["tracelog",["0.1.0"]]
