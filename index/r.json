@@ -9050,6 +9050,7 @@
 ["rust-aws-sns",["0.4.0","0.3.0","0.2.0","0.1.0"]]
 ["rust-azure-devops-crate-publish-test",["0.1.0"]]
 ["rust-base58",["0.0.4","0.0.2","0.0.1"]]
+["rust-batch",["0.1.0"]]
 ["rust-bazel",["0.2.0","0.1.0"]]
 ["rust-beam",["0.3.0","0.2.0","0.1.1","0.1.0"]]
 ["rust-beanstalkd",["0.0.0"]]
