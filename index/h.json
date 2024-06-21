@@ -1491,6 +1491,7 @@
 ["hermit-toolkit-storage",["0.1.0"]]
 ["hermit-toolkit-utils",["0.1.0"]]
 ["hermit-toolkit-viewing-key",["0.1.0"]]
+["hermit_bench_output",["0.1.0"]]
 ["hermit_toolkit_hmip21",["0.1.5","0.1.3","0.1.2","0.1.1","0.1.0"]]
 ["hermitdb",["0.1.0"]]
 ["hermod",["0.1.3","0.1.2","0.1.1"]]
