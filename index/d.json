@@ -2216,6 +2216,7 @@
 ["derive-knet",["0.2.0","0.1.0"]]
 ["derive-macros",["2.1.1","2.1.0","2.0.0","1.0.0"]]
 ["derive-marker",["0.1.0"]]
+["derive-masked",["0.0.0-alpha.0"]]
 ["derive-merge-struct",["0.1.0"]]
 ["derive-more-more",["0.1.0"]]
 ["derive-name",["1.1.0","1.0.0","0.1.2","0.1.1","0.1.0"]]
