@@ -1864,6 +1864,7 @@
 ["embedded-display-controller",["0.2.0","0.1.0"]]
 ["embedded-dma",["0.2.0","0.1.2","0.1.1","0.1.0"]]
 ["embedded-dma-hal",["0.0.1"]]
+["embedded-driver-template",["0.1.0"]]
 ["embedded-drivers",["0.0.2","0.0.1"]]
 ["embedded-error",["0.6.0","0.5.0","0.4.0","0.3.0","0.2.0","0.1.0"]]
 ["embedded-error-chain",["1.0.0","0.1.1"]]
