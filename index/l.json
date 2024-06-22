@@ -3791,6 +3791,7 @@
 ["linear_collections",["0.3.0","0.2.2","0.2.1","0.2.0","0.1.0"]]
 ["linear_collections_macros",["0.1.0"]]
 ["linear_data_chain",["0.1.0"]]
+["linear_isomorphic",["0.1.0"]]
 ["linear_model_allen",["0.3.0","0.2.1"]]
 ["linear_sdk",["0.0.1"]]
 ["linear_search_trie",["0.1.2","0.1.1","0.1.0"]]
