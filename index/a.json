@@ -6619,7 +6619,7 @@
 ["astroport-router",["1.2.1","1.2.0","1.1.1"]]
 ["astroport-staking",["2.1.0","1.1.0"]]
 ["astroport-token",["1.1.1"]]
-["astroport-tokenfactory-tracker",["1.0.0"]]
+["astroport-tokenfactory-tracker",["2.0.0","1.0.0"]]
 ["astroport-types",["0.1.3","0.1.2","0.1.1","0.1.0"]]
 ["astroport-vesting",["1.4.0","1.3.2","1.3.1"]]
 ["astroport-voting-escrow",["1.0.0-rc.1"]]
