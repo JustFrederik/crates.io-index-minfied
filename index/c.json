@@ -4648,7 +4648,7 @@
 ["chip_lox_ide",["0.2.0"]]
 ["chip_lox_lang",["0.2.0"]]
 ["chip_oxide",["0.1.1","0.1.0"]]
-["chipbox",["0.0.0"]]
+["chipbox",[]]
 ["chipeight",["0.1.0"]]
 ["chipfuzz",["0.0.0"]]
 ["chipfuzz_probe",["0.0.0"]]
