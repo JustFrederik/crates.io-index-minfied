@@ -10884,7 +10884,7 @@
 ["crystalfs-client",["0.0.0"]]
 ["crystalfs-protocol",["0.0.0"]]
 ["crystalfs-server",["0.0.0"]]
-["crystallographic-group",["0.1.0"]]
+["crystallographic-group",["0.2.0","0.1.0"]]
 ["crystalorb",["0.3.0","0.2.1","0.2.0","0.1.0"]]
 ["crystalorb-bevy-networking-turbulence",["0.3.0","0.2.1","0.2.0"]]
 ["crystalorb-mock-network",["0.3.0","0.2.1","0.2.0"]]
