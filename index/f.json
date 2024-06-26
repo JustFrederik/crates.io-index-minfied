@@ -1827,6 +1827,8 @@
 ["fields-iter",["0.0.3","0.0.2","0.0.1"]]
 ["fields-iter-macros",["0.0.1"]]
 ["fields-of-mars",["1.0.0"]]
+["fieldset",["0.1.0"]]
+["fieldset_macro",["0.1.0"]]
 ["fieldwise",["0.1.0"]]
 ["fieldx",["0.1.2","0.1.1","0.1.0"]]
 ["fieldx_derive",["0.1.2","0.1.1","0.1.0"]]
