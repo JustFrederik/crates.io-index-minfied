@@ -227,6 +227,7 @@
 ["objc2-call-kit",["0.2.2","0.2.0"]]
 ["objc2-class-kit",["0.2.2","0.2.0"]]
 ["objc2-cloud-kit",["0.2.2","0.2.0"]]
+["objc2-compositor-services",["0.0.0"]]
 ["objc2-contacts",["0.2.2","0.2.0"]]
 ["objc2-contacts-ui",["0.2.2","0.0.0"]]
 ["objc2-core-bluetooth",["0.2.2","0.0.0"]]
