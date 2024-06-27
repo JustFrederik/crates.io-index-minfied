@@ -5679,7 +5679,7 @@
 ["simple-tlv",["0.1.0"]]
 ["simple-tlv_derive",["0.1.0"]]
 ["simple-token-language-server",["0.0.1"]]
-["simple-tokenizer",["0.4.1","0.4.0","0.2.0","0.1.0"]]
+["simple-tokenizer",["0.4.2","0.4.1","0.4.0","0.2.0","0.1.0"]]
 ["simple-tokio-watchdog",["0.2.0","0.1.0"]]
 ["simple-tqdm",["0.2.0","0.1.4","0.1.3","0.1.2","0.1.1"]]
 ["simple-translate-json",["0.1.1","0.1.0"]]
