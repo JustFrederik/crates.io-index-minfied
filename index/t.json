@@ -3198,7 +3198,7 @@
 ["tfhe-rs",["0.0.0"]]
 ["tfhe-versionable",["0.1.0"]]
 ["tfhe-versionable-derive",["0.1.0"]]
-["tfhe-zk-pok",["0.2.0","0.1.0"]]
+["tfhe-zk-pok",["0.2.1","0.2.0","0.1.0"]]
 ["tfidf",["0.3.0","0.2.0","0.1.0"]]
 ["tfidf-summarizer",["2.0.0"]]
 ["tfidf-text-summarizer",["0.0.3","0.0.2","0.0.1"]]
