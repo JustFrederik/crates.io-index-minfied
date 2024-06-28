@@ -1780,6 +1780,7 @@
 ["usbredirhost-sys",["0.2.0","0.0.1"]]
 ["usbredirparser",["0.2.0","0.0.1"]]
 ["usbredirparser-sys",["0.2.0","0.0.1"]]
+["usbrelay-rs",["0.1.0"]]
 ["usbrh",["0.1.0"]]
 ["usbsdmux",["0.1.0"]]
 ["usbtmc",["0.0.1","0.1.0"]]
