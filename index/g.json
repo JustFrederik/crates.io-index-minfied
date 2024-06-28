@@ -271,6 +271,7 @@
 ["gandalf",[]]
 ["gandalf-consensus",["1.0.0"]]
 ["gandalf-kvs",["1.0.0"]]
+["gander",["0.1.0"]]
 ["gandi-client",[]]
 ["gandi-email",["1.0.1","1.0.0"]]
 ["gandi-live-dns",["1.8.0","1.7.0","1.5.0"]]
