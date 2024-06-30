@@ -3110,7 +3110,7 @@
 ["io_self_derive",["0.2.0","0.1.0"]]
 ["io_tee",["0.1.1","0.1.0"]]
 ["io_unity",["0.3.0","0.2.0"]]
-["io_uring_buf_ring",["0.1.0-dev.1"]]
+["io_uring_buf_ring",["0.1.0-dev.2","0.1.0-dev.1"]]
 ["io_uring_core",[]]
 ["io_uring_dev",[]]
 ["io_uring_header",["0.1.3"]]
