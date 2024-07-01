@@ -3563,7 +3563,7 @@
 ["bitcoin-primitives",["0.1.16-alpha.0","0.1.13-alpha.0","0.1.12-alpha.0","0.1.10-alpha.0"]]
 ["bitcoin-private",["0.1.0","0.0.0"]]
 ["bitcoin-pro",["0.1.2","0.1.1","0.1.0","0.1.0-beta.2","0.1.0-beta.1","0.1.0-alpha.3","0.1.0-alpha.2","0.1.0-alpha.1"]]
-["bitcoin-proptest",["0.0.1-alpha.2","0.0.1-alpha.1"]]
+["bitcoin-proptest",["0.0.1-alpha.3","0.0.1-alpha.2","0.0.1-alpha.1"]]
 ["bitcoin-proxy",["0.1.16-alpha.0","0.1.12-alpha.0"]]
 ["bitcoin-psbt",["0.1.16-alpha.0","0.1.12-alpha.0"]]
 ["bitcoin-push-decoder",["0.2.2","0.2.1","0.2.0","0.1.0"]]
