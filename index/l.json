@@ -4174,6 +4174,7 @@
 ["linux-api-semaphore",["0.0.0"]]
 ["linux-api-sys",["0.0.1","0.0.0"]]
 ["linux-args",["0.1.0"]]
+["linux-boot-params",["0.1.0"]]
 ["linux-bootloader",["0.0.1"]]
 ["linux-bzimage-builder",["0.1.0"]]
 ["linux-cmdline",["0.1.2","0.1.1","0.1.0"]]
