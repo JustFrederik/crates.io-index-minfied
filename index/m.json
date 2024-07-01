@@ -4290,7 +4290,7 @@
 ["mimalloc-rust-sys",["1.7.9-source","1.7.6-source","1.7.3-source","1.7.2"]]
 ["mimalloc-sys",["0.1.6-dev","0.1.6","0.1.5","0.1.4","0.1.2","0.1.1","0.1.0"]]
 ["mimalloc2",["0.1.0"]]
-["mimalloc2-rust",[]]
+["mimalloc2-rust",["0.3.2"]]
 ["mimalloc2-rust-sys",["2.1.7-source","2.1.4-source","2.1.2-source"]]
 ["mimallocate-sys",["0.1.1","0.1.0"]]
 ["mimallocator",["0.1.3","0.1.2","0.1.0"]]
