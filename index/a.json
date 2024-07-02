@@ -6203,6 +6203,7 @@
 ["asimov-cli",["24.0.0-dev.0"]]
 ["asimov-sdk",["24.0.0-dev.0"]]
 ["asimov-sys",["24.0.0-dev.0"]]
+["asimov-template-module",["0.0.0"]]
 ["asimov_derive",["0.1.1","0.1.0"]]
 ["asink",["0.1.2","0.1.1","0.1.0"]]
 ["asio",["0.1.0"]]
