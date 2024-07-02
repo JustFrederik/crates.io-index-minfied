@@ -1608,7 +1608,7 @@
 ["bevy-firebase-firestore",["0.1.0"]]
 ["bevy-flights",["0.1.2","0.1.0"]]
 ["bevy-fps-counter",["0.4.0","0.3.0","0.2.0","0.1.0"]]
-["bevy-fps-ui",["0.1.3","0.1.2","0.1.1","0.1.0"]]
+["bevy-fps-ui",["0.1.4","0.1.3","0.1.2","0.1.1","0.1.0"]]
 ["bevy-fpscam",["0.7.0"]]
 ["bevy-glsl-to-spirv",["0.2.1","0.2.0","0.1.7"]]
 ["bevy-glsl-to-spirv-builder",["0.0.1"]]
