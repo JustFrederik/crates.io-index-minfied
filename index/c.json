@@ -6297,6 +6297,7 @@
 ["cloud-dns",["0.10.0"]]
 ["cloud-file",["0.1.2","0.1.1","0.1.0","0.1.0-beta.4","0.1.0-beta.3","0.1.0-beta.2","0.1.0-beta.1"]]
 ["cloud-file-signer",["0.1.0"]]
+["cloud-filter",["0.0.1"]]
 ["cloud-hypervisor-command-builder",["0.38.0-beta.2","0.38.0-beta.1"]]
 ["cloud-lib",["0.1.0"]]
 ["cloud-macro",["0.1.0"]]
