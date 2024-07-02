@@ -1954,7 +1954,7 @@
 ["nfs4_client",["0.1.0"]]
 ["nfsserve",["0.10.2","0.10.1"]]
 ["nft-bridge",["3.0.0"]]
-["nft-folder",["0.2.1","0.1.0"]]
+["nft-folder",["0.3.5","0.2.1","0.1.0"]]
 ["nft-metadata",["1.1.0"]]
 ["nft-server",["0.1.1","0.1.0"]]
 ["nft-smart-contract",["0.1.1"]]
