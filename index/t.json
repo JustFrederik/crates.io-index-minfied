@@ -6253,7 +6253,7 @@
 ["tower-middleware",["0.0.0"]]
 ["tower-mock",["0.0.0"]]
 ["tower-mod",["0.0.0"]]
-["tower-no-ai",["0.1.0"]]
+["tower-no-ai",["0.1.1","0.1.0"]]
 ["tower-opentelemetry",["0.2.0","0.2.0-beta.1","0.1.0-beta.2","0.1.0-beta.1","0.0.1-alpha.3","0.0.1-alpha.2","0.0.1-alpha.1"]]
 ["tower-otel",["0.2.0","0.1.0"]]
 ["tower-otel-http-metrics",["0.4.0","0.3.0","0.3.0-alpha0","0.2.1","0.2.0","0.2.0-alpha.0","0.1.0","0.1.0-alpha.3","0.1.0-alpha.2","0.1.0-alpha.1","0.1.0-alpha.0"]]
