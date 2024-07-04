@@ -6292,6 +6292,7 @@
 ["monero-seed",["0.0.1"]]
 ["monero-serai",[]]
 ["monero-serai-rpc",["0.0.1"]]
+["monero-serai-verify-chain",["0.0.1"]]
 ["monero-vanity",["0.4.1","0.4.0"]]
 ["monero-wallet",["0.0.1"]]
 ["monero-wallet-core",["0.0.1"]]
