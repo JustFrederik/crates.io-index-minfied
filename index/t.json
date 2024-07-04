@@ -2389,6 +2389,7 @@
 ["test-harness",["0.3.0","0.2.0","0.1.1","0.1.0"]]
 ["test-helper",["0.1.0"]]
 ["test-helpers",["0.2.3"]]
+["test-helpers-async",["0.2.3"]]
 ["test-hhhhhhhhhh",["0.1.0"]]
 ["test-ignore-if",["0.1.0"]]
 ["test-ignore-if-utils",["0.1.0"]]
