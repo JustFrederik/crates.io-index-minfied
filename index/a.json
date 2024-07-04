@@ -2889,6 +2889,7 @@
 ["allochronic",["0.0.0-reserve"]]
 ["allochronic-util",["0.0.1-dev-1","0.0.0-reserve"]]
 ["allochronic-util-macros",["0.0.1-dev-1","0.0.0-reserve"]]
+["allocvec",["0.1.0"]]
 ["allow",["0.1.5","0.1.4","0.1.3","0.1.2","0.1.1","0.1.0"]]
 ["allow-me",["0.1.1","0.1.0"]]
 ["allow-until",["0.2.0","0.1.0"]]
