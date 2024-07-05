@@ -438,6 +438,7 @@
 ["variant_count",["1.1.0","1.0.0"]]
 ["variant_counter",["0.4.0","0.3.0","0.2.2","0.2.1","0.2.0","0.1.0"]]
 ["variant_counter_derived",["0.4.0","0.3.0","0.2.2","0.2.1","0.2.0","0.1.0"]]
+["variant_enum",["0.1.0"]]
 ["variant_name",["0.0.1"]]
 ["variant_name_derive",["0.0.1"]]
 ["variante",["0.2.0"]]
