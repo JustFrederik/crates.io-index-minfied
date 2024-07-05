@@ -1822,7 +1822,7 @@
 ["include-utils-macro",["0.2.2","0.2.1","0.2.0","0.1.1","0.1.0"]]
 ["include-wasm-rs",["0.1.3","0.1.2","0.1.1","0.1.0"]]
 ["include-wgsl-oil",["0.2.6","0.2.5","0.2.4","0.2.3","0.2.2","0.2.0","0.1.1","0.1.0"]]
-["include_absolute_path",["0.1.3"]]
+["include_absolute_path",["0.1.4","0.1.3"]]
 ["include_assets",["1.0.0"]]
 ["include_assets_decode",["0.1.0"]]
 ["include_assets_encode",["0.1.0"]]
