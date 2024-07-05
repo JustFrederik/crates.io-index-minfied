@@ -3507,7 +3507,7 @@
 ["bitcoin-checkqueue",["0.1.16-alpha.0","0.1.12-alpha.0"]]
 ["bitcoin-cli",["0.1.16-alpha.0","0.1.12-alpha.0"]]
 ["bitcoin-client-ui",["0.1.16-alpha.0","0.1.12-alpha.0"]]
-["bitcoin-coin-selection",["0.3.2","0.3.1"]]
+["bitcoin-coin-selection",["0.4.0","0.3.2","0.3.1"]]
 ["bitcoin-coincontrol",["0.1.16-alpha.0","0.1.12-alpha.0"]]
 ["bitcoin-coinselect",["0.1.16-alpha.0","0.1.12-alpha.0"]]
 ["bitcoin-coinsview",["0.1.16-alpha.0","0.1.12-alpha.0"]]
