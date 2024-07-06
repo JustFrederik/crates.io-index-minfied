@@ -893,6 +893,7 @@
 ["ohos-node-bindgen",["6.0.3","6.0.2"]]
 ["ohos-raw-binding",["0.0.2","0.0.1"]]
 ["ohos-raw-sys",["0.0.1"]]
+["ohos-resource-manager-binding",["0.0.1"]]
 ["ohos-resource-manager-sys",["0.0.2","0.0.1"]]
 ["ohos-sys",["0.1.0"]]
 ["ohos_hilog",["0.1.2","0.1.1","0.1.0"]]
