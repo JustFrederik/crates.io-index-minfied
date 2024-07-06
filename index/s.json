@@ -13683,6 +13683,7 @@
 ["supabase",["0.0.0"]]
 ["supabase-cli",["0.0.0"]]
 ["supabase-client",["0.0.0"]]
+["supabase-function-rs",["0.1.1","0.1.0"]]
 ["supabase-js-rs",["0.1.3","0.1.2","0.1.1","0.1.0"]]
 ["supabase-realtime",["0.0.0"]]
 ["supabase-rust",["0.1.2","0.1.1","0.1.0"]]
