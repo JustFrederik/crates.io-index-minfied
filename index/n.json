@@ -270,7 +270,7 @@
 ["nameless-clap_derive",["3.0.0-beta.2.2","3.0.0-beta.2.1","3.0.0-beta.2"]]
 ["nameless-clap_generate",["3.0.0-beta.2.2","3.0.0-beta.2.1","3.0.0-beta.2"]]
 ["nameless-clap_up",["0.0.0"]]
-["nameless-peg-parser",["0.1.0"]]
+["nameless-peg-parser",["0.1.2","0.1.1","0.1.0"]]
 ["nameme",["0.2.3","0.1.0"]]
 ["nameme_core",["0.2.3"]]
 ["nameof",["1.2.2","1.2.1","1.2.0","1.1.0","1.0.3","1.0.1","1.0.0","0.1.1","0.1.0"]]
