@@ -3724,6 +3724,7 @@
 ["essential-lock",["0.0.0-release"]]
 ["essential-memory-storage",["0.0.0-release"]]
 ["essential-read",["0.0.0-release"]]
+["essential-rest-client",["0.0.0-release"]]
 ["essential-rest-server",["0.0.0-release"]]
 ["essential-rqlite-storage",["0.0.0-release"]]
 ["essential-server",["0.0.0-release"]]
