@@ -5648,6 +5648,8 @@
 ["grug-crypto",["0.0.0"]]
 ["grug-db-disk",["0.0.0"]]
 ["grug-db-memory",["0.0.0"]]
+["grug-ffi",["0.0.0"]]
+["grug-jmt",["0.0.0"]]
 ["grumpkin",["0.0.0"]]
 ["grumpkin-msm",["0.1.0"]]
 ["grun",["0.1.0"]]
