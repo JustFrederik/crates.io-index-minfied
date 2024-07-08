@@ -5646,6 +5646,8 @@
 ["grug-app",["0.0.0"]]
 ["grug-bank",["0.0.0"]]
 ["grug-crypto",["0.0.0"]]
+["grug-db-disk",["0.0.0"]]
+["grug-db-memory",["0.0.0"]]
 ["grumpkin",["0.0.0"]]
 ["grumpkin-msm",["0.1.0"]]
 ["grun",["0.1.0"]]
