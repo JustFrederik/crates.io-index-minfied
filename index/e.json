@@ -3721,6 +3721,7 @@
 ["essential-memory-storage",["0.0.0-release"]]
 ["essential-rest-server",["0.0.0-release"]]
 ["essential-rqlite-storage",["0.0.0-release"]]
+["essential-server",["0.0.0-release"]]
 ["essential-sign",["0.0.0-release"]]
 ["essential-state-asm",["0.0.0-release"]]
 ["essential-types",["0.0.0-release"]]
