@@ -1544,7 +1544,7 @@
 ["upstash-ratelimit",["0.1.0"]]
 ["upstash-ratelimit-rs",["1.0.2","1.0.1","1.0.0"]]
 ["upstash-redis-rs",["0.1.2","0.1.1","0.1.0"]]
-["upstox-rust-sdk",["0.1.1","0.1.0"]]
+["upstox-rust-sdk",["0.1.2","0.1.1","0.1.0"]]
 ["upstream",["0.1.0"]]
 ["upstream-module",["0.2.0"]]
 ["upstream-ontologist",["0.1.38","0.1.37","0.1.36","0.1.35"]]
