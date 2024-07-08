@@ -1843,6 +1843,7 @@
 ["agave-tokens",["0.1.0"]]
 ["agave-tpu-client",["0.1.0"]]
 ["agave-transaction-status",["0.1.0"]]
+["agave-transaction-view",["0.0.0"]]
 ["agave-turbine",["0.1.0"]]
 ["agave-udp-client",["0.1.0"]]
 ["agave-unified-scheduler-logic",["0.1.0"]]
