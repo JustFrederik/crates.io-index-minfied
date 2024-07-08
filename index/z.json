@@ -1084,6 +1084,8 @@
 ["zksync_circuit",["3.0.0"]]
 ["zksync_concurrency",["0.1.0-rc.1"]]
 ["zksync_consensus_crypto",["0.1.0-rc.1"]]
+["zksync_consensus_roles",["0.1.0-rc.1"]]
+["zksync_consensus_storage",["0.1.0-rc.1"]]
 ["zksync_consensus_utils",["0.1.0-rc.1"]]
 ["zksync_kzg",["0.150.1","0.150.0"]]
 ["zksync_protobuf",["0.1.0-rc.1"]]
