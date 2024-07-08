@@ -30,7 +30,7 @@
 ["d1-rom-rt",["0.0.0"]]
 ["d1-rom-rt-macros",["0.0.0"]]
 ["d2-stampede",["0.1.0"]]
-["d2-stampede-observers",["0.1.0"]]
+["d2-stampede-observers",["0.1.1","0.1.0"]]
 ["d2-stampede-protobufs",["0.1.0"]]
 ["d20",["0.1.0"]]
 ["d20util",["0.1.0"]]
