@@ -632,6 +632,7 @@
 ["xlogic-core",["0.1.0"]]
 ["xlogic-derive",["0.1.0"]]
 ["xlogic-tests",["0.1.0"]]
+["xloop",["0.1.0"]]
 ["xloop_android",["0.1.0"]]
 ["xloop_ios",["0.1.0"]]
 ["xloop_macos",["0.1.0"]]
