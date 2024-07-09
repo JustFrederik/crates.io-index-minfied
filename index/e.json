@@ -4587,6 +4587,8 @@
 ["evolve",["0.0.0"]]
 ["evolvingstring",["0.1.0"]]
 ["evoxel-core",["0.0.1-alpha.3"]]
+["evoxel-io",["0.0.1-alpha.3"]]
+["evoxel-transform",["0.0.1-alpha.3"]]
 ["evp_bytestokey",["1.0.0","0.3.0","0.2.0","0.1.0"]]
 ["evpkdf",["0.2.0","0.1.1","0.1.0"]]
 ["evrf",["0.0.1"]]
