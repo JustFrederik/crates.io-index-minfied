@@ -398,6 +398,7 @@
 ["zero-kzg",["0.1.10"]]
 ["zero-network",["0.1.10","0.1.0"]]
 ["zero-one",["0.1.0"]]
+["zero-packet",["0.0.1"]]
 ["zero-pad",["0.1.0"]]
 ["zero-pairing",["0.1.11","0.1.10"]]
 ["zero-plonk",["0.1.10"]]
