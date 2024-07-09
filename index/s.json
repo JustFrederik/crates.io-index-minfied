@@ -11493,7 +11493,7 @@
 ["static-file-http-server",["0.1.15","0.1.14","0.1.13"]]
 ["static-file-http-server-macros",["0.1.12"]]
 ["static-file-server",["0.0.3","0.0.2","0.0.1"]]
-["static-files",["0.2.3","0.2.2","0.2.1","0.2.0","0.1.0","0.0.1"]]
+["static-files",["0.2.4","0.2.3","0.2.2","0.2.1","0.2.0","0.1.0","0.0.1"]]
 ["static-files-actix-web",["0.1.0"]]
 ["static-files-axum",["0.1.0"]]
 ["static-files-module",["0.2.0","0.1.0"]]
