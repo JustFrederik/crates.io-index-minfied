@@ -5824,7 +5824,7 @@
 ["tonic-js-builder",["0.3.0","0.1.0"]]
 ["tonic-lb",["0.0.2","0.0.1"]]
 ["tonic-macros",["0.0.0"]]
-["tonic-middleware",["0.1.4","0.1.3"]]
+["tonic-middleware",["0.2.0","0.1.4","0.1.3"]]
 ["tonic-mock",["0.3.0","0.1.0"]]
 ["tonic-native-tls",["0.1.3","0.1.2","0.1.1","0.1.0"]]
 ["tonic-openssl",["0.2.0","0.1.0"]]
