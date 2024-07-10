@@ -1069,6 +1069,8 @@
 ["egotism",["0.1.0"]]
 ["egp",["0.1.2","0.1.1","0.1.0"]]
 ["egraph-serialize",["0.1.0"]]
+["egraphics",["0.0.1-alpha.3"]]
+["egraphics-cli",["0.0.1-alpha.3"]]
 ["egraphics-core",["0.0.1-alpha.3"]]
 ["egraphics-io",["0.0.1-alpha.3"]]
 ["egress",["0.1.1","0.1.0"]]
