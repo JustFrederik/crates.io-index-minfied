@@ -1703,6 +1703,7 @@
 ["scout-audit-dylint-linting",["3.0.1","3.0.0","2.6.1"]]
 ["scout-audit-internal",["0.2.4","0.2.3","0.2.2","0.2.1","0.2.0"]]
 ["scout-audit-internal-soroban",["0.2.2","0.2.1"]]
+["scout-lexer",["0.5.1"]]
 ["scout_game",["0.1.1","0.1.0"]]
 ["scouter",["0.2.1","0.2.0","0.1.0"]]
 ["scoutfs-sys",["0.1.0"]]
