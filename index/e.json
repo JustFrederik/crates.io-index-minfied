@@ -4348,7 +4348,7 @@
 ["eve_oauth2",["0.2.0"]]
 ["evebox",["0.13.0"]]
 ["evebox-suricata-rule-parser",[]]
-["evectl",["0.1.0-alpha.2","0.1.0-alpha.1"]]
+["evectl",["0.1.0-alpha.3","0.1.0-alpha.2","0.1.0-alpha.1"]]
 ["evegfx",["0.6.0","0.4.0"]]
 ["evegfx-cli",["0.6.0","0.5.0"]]
 ["evegfx-hal",["0.6.0","0.4.0"]]
