@@ -4293,7 +4293,7 @@
 ["revolt-rs-http",["0.0.2"]]
 ["revolt-rs-model",["0.0.2"]]
 ["revolt-rs-util",["0.0.2"]]
-["revolt_a2",["0.10.0"]]
+["revolt_a2",["0.10.1","0.10.0"]]
 ["revolt_api",["0.6.5","0.5.5-rev.2","0.5.5-rev.1"]]
 ["revolt_clamav-client",["0.1.5","0.1.4"]]
 ["revolt_okapi",["0.9.1","0.9.0","0.7.0-rc.1"]]
