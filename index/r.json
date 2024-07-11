@@ -3622,6 +3622,7 @@
 ["repoer",["0.1.1","0.1.0"]]
 ["repofetch",["0.3.3","0.3.2","0.3.1","0.3.0","0.2.1","0.2.0","0.1.0"]]
 ["repolocli",["0.1.0-alpha.1"]]
+["repolog",["0.1.0"]]
 ["repology-rs",["0.1.0"]]
 ["repomake",["0.0.0-reserve"]]
 ["repomake-dsl",["0.0.0-reserve"]]
