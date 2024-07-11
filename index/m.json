@@ -8364,6 +8364,8 @@
 ["my-crate-public",[]]
 ["my-desire",["0.1.0"]]
 ["my-desire-macros",["0.1.0"]]
+["my-ecs",["0.0.1"]]
+["my-ecs-macros",["0.0.1"]]
 ["my-env-logger-style",["0.2.0","0.1.1","0.1.0"]]
 ["my-essentials",["0.1.1","0.1.0"]]
 ["my-eth-tool",["0.1.1","0.1.0"]]
