@@ -692,7 +692,7 @@
 ["gdext",["0.0.0"]]
 ["gdext-egui",["0.0.0"]]
 ["gdext-utils",["0.0.0"]]
-["gdext_coroutines",["0.3.0"]]
+["gdext_coroutines",["0.4.0","0.3.0"]]
 ["gdextension",["0.0.1"]]
 ["gdextension-api",["0.1.0"]]
 ["gdhcocos-rs",["1.0.0"]]
