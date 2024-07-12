@@ -7697,6 +7697,8 @@
 ["protonvpn",["0.2.0","0.1.0"]]
 ["protoparse",["0.0.4","0.0.3","0.0.2","0.0.1"]]
 ["protopathy",["0.0.1","0.0.0"]]
+["protopuffer",["0.1.0"]]
+["protopuffer-codegen",["0.1.0"]]
 ["protoql",["0.1.0"]]
 ["protorbit",["0.1.0"]]
 ["protore",["0.1.1"]]
