@@ -1100,6 +1100,8 @@
 ["zksync_consensus_utils",["0.1.0-rc.2","0.1.0-rc.1"]]
 ["zksync_contracts",["0.1.0"]]
 ["zksync_crypto_primitives",["0.1.0"]]
+["zksync_db_connection",["0.1.0"]]
+["zksync_health_check",["0.1.0"]]
 ["zksync_kzg",["0.150.1","0.150.0"]]
 ["zksync_protobuf",["0.1.0-rc.2","0.1.0-rc.1"]]
 ["zksync_protobuf_build",["0.1.0-rc.2","0.1.0-rc.1"]]
