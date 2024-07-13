@@ -1121,6 +1121,8 @@
 ["zksync_metadata_calculator",["0.1.0"]]
 ["zksync_mini_merkle_tree",["0.1.0"]]
 ["zksync_multivm",["0.1.0"]]
+["zksync_node_api_server",["0.1.0"]]
+["zksync_node_consensus",["0.1.0"]]
 ["zksync_node_fee_model",["0.1.0"]]
 ["zksync_node_genesis",["0.1.0"]]
 ["zksync_node_sync",["0.1.0"]]
