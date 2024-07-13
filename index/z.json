@@ -1123,6 +1123,7 @@
 ["zksync_multivm",["0.1.0"]]
 ["zksync_node_fee_model",["0.1.0"]]
 ["zksync_node_genesis",["0.1.0"]]
+["zksync_node_sync",["0.1.0"]]
 ["zksync_node_test_utils",["0.1.0"]]
 ["zksync_object_store",["0.1.0"]]
 ["zksync_protobuf",["0.1.0-rc.2","0.1.0-rc.1"]]
