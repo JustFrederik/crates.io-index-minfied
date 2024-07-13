@@ -5282,6 +5282,8 @@
 ["greedia",["0.1.0"]]
 ["greedy",["0.0.0"]]
 ["greedy0110_guessing_game",["0.1.0"]]
+["greedy_enum",["0.1.0"]]
+["greedy_enum_derive",["0.1.0"]]
 ["greek",["0.0.0"]]
 ["greek_number",["0.1.1","0.1.0"]]
 ["greeks",["0.5.0","0.4.0","0.3.0","0.2.0"]]
