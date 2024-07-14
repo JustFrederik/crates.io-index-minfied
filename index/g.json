@@ -1203,6 +1203,7 @@
 ["genesis-impl",["0.2.2","0.2.0","0.1.1","0.1.0","0.0.0"]]
 ["genesis-viewer",[]]
 ["genesis2000",["0.2.0","0.1.0"]]
+["genesis_rs",["1.0.0"]]
 ["genestring",["0.1.0"]]
 ["genesys",["0.1.2","0.1.1","0.1.0"]]
 ["genesys-dice-command-parser",["0.1.1","0.1.0"]]
