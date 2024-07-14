@@ -7280,7 +7280,7 @@
 ["collect-mac",["0.1.0"]]
 ["collect-me",["0.1.0"]]
 ["collect-once-hashmap",["0.2.0","0.1.0"]]
-["collect_args",["0.0.1"]]
+["collect_args",["0.0.2","0.0.1"]]
 ["collect_array",["0.1.3","0.1.2","0.1.1","0.1.0"]]
 ["collect_array_ext_trait",["0.2.0","0.1.0"]]
 ["collect_into_rc_slice",["1.0.0"]]
