@@ -4025,6 +4025,8 @@
 ["micronfig",["0.3.0","0.2.0","0.1.2"]]
 ["micronfig_macros",["0.3.0"]]
 ["micropass",["0.1.1","0.1.0"]]
+["micropb",["0.1.0"]]
+["micropb-gen",["0.1.0"]]
 ["micropelt",["0.2.0","0.1.0"]]
 ["micropelt-derive",["0.1.0"]]
 ["micropelt-mlr003",[]]
