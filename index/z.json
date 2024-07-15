@@ -1112,6 +1112,7 @@
 ["zksync_da_dispatcher",["0.1.0"]]
 ["zksync_dal",["0.1.0"]]
 ["zksync_db_connection",["0.1.0"]]
+["zksync_default_da_clients",["0.1.0"]]
 ["zksync_env_config",["0.1.0"]]
 ["zksync_eth_client",["0.1.0"]]
 ["zksync_eth_sender",["0.1.0"]]
