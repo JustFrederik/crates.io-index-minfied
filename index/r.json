@@ -5177,7 +5177,7 @@
 ["riscv_analysis_cli",["0.1.0-alpha"]]
 ["riscv_analysis_lsp",["0.1.0-alpha"]]
 ["riscv_emu_rust",["0.2.0","0.1.0"]]
-["riscv_goldfish",["0.1.0"]]
+["riscv_goldfish",["0.1.1","0.1.0"]]
 ["riscvsbi",[]]
 ["riscy",["0.4.0","0.3.0","0.2.0","0.1.0"]]
 ["riscy-isa",["0.1.1","0.1.0"]]
