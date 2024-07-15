@@ -2015,7 +2015,7 @@
 ["voxel-game",["0.0.0"]]
 ["voxel-tile-raycast",["0.1.0"]]
 ["voxel-tiler-cli",["0.1.1","0.1.0"]]
-["voxel-tiler-core",["0.2.1","0.2.0","0.1.0"]]
+["voxel-tiler-core",["0.3.0","0.2.1","0.2.0","0.1.0"]]
 ["voxel-traversal",["0.2.0","0.1.0"]]
 ["voxel_chunk",["0.0.2","0.0.1"]]
 ["voxel_worldgen",["0.1.0"]]
