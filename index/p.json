@@ -277,7 +277,7 @@
 ["packetrs",["0.5.0"]]
 ["packetrs-impl",["0.5.0","0.4.0","0.3.0","0.2.0","0.1.0"]]
 ["packetrs-macro",["0.5.0","0.4.0","0.3.0","0.2.0"]]
-["packetry",[]]
+["packetry",["0.1.0"]]
 ["packets",["0.1.0"]]
 ["packetvar-derive",["0.1.0"]]
 ["packetvisor",["1.0.1","1.0.0"]]
