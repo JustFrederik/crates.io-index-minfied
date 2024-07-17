@@ -1053,6 +1053,7 @@
 ["keystone",["0.9.0"]]
 ["keystone-engine",["0.1.0"]]
 ["keystore",[]]
+["keystore-rs",["0.1.0"]]
 ["keystream",["1.0.0"]]
 ["keystring_generator",["0.1.2","0.1.1","0.1.0"]]
 ["keystroke",["0.0.3","0.0.2"]]
