@@ -889,7 +889,7 @@
 ["ohos-bundle-binding",["0.0.1"]]
 ["ohos-bundle-sys",["0.0.2","0.0.1"]]
 ["ohos-cli",["0.1.0"]]
-["ohos-drawing-sys",["0.1.0-beta3","0.1.0-beta2","0.1.0-beta1"]]
+["ohos-drawing-sys",["0.1.0","0.1.0-beta3","0.1.0-beta2","0.1.0-beta1"]]
 ["ohos-hilog-binding",["0.0.3","0.0.2","0.0.1"]]
 ["ohos-hilogs-binding",["0.0.2"]]
 ["ohos-hilogs-sys",["0.0.2","0.0.1"]]
