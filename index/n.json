@@ -3381,7 +3381,7 @@
 ["notion-api-client",["0.0.1"]]
 ["notion-api-rs",["0.1.0"]]
 ["notion-cli",["0.0.0"]]
-["notion-client",["1.0.1","1.0.0"]]
+["notion-client",["1.0.2","1.0.1"]]
 ["notion-flows",["0.2.0","0.1.1","0.1.0"]]
 ["notion-flows-macros",["0.1.0"]]
 ["notion-into-sqlite",["0.1.2","0.1.0"]]
