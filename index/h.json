@@ -84,7 +84,7 @@
 ["ha-registry",["0.0.1"]]
 ["ha-utils",["0.0.1"]]
 ["ha_api",["0.1.0"]]
-["haalka",["0.1.0"]]
+["haalka",["0.1.1","0.1.0"]]
 ["haalka_futures_signals_ext",["0.0.1"]]
 ["haalka_futures_util_ext",["0.0.1"]]
 ["habitat",["0.0.0"]]
