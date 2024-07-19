@@ -11455,6 +11455,7 @@
 ["cubecl",["0.1.0"]]
 ["cubecl-common",["0.1.1"]]
 ["cubecl-core",["0.1.1"]]
+["cubecl-linalg",["0.1.1"]]
 ["cubecl-macros",["0.1.1"]]
 ["cubecl-runtime",["0.1.1"]]
 ["cubeclient",["0.1.0"]]
