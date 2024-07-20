@@ -2688,6 +2688,8 @@
 ["fitz_example",[]]
 ["five32",["0.1.0"]]
 ["five32-instruction-set",["0.1.0"]]
+["five8_foo",["0.1.0"]]
+["five8_foo_core",["0.1.0"]]
 ["fivedd",["0.1.0"]]
 ["fivedd-client",["0.1.0"]]
 ["fivedd-gui",["0.1.0"]]
