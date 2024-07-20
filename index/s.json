@@ -5097,6 +5097,8 @@
 ["sickOS",["0.0.0"]]
 ["sickle_macros",["0.2.1"]]
 ["sickle_math",["0.2.1"]]
+["sickle_ui",["0.2.1"]]
+["sickle_ui_scaffold",["0.2.1"]]
 ["siclibrs",["0.1.0"]]
 ["sicompiler",["1.0.1","0.1.1","0.1.0"]]
 ["sicp",[]]
