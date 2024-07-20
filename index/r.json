@@ -504,6 +504,7 @@
 ["radix-leptos-compose-refs",["0.0.2"]]
 ["radix-leptos-popper",["0.0.1"]]
 ["radix-leptos-primitive",["0.0.2"]]
+["radix-leptos-slot",["0.0.2"]]
 ["radix-leptos-use-size",["0.0.1"]]
 ["radix-leptos-visually-hidden",["0.0.2"]]
 ["radix-native-sdk",["1.2.0","1.2.0-dev"]]
