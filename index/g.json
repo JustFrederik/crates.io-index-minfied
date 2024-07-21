@@ -1070,6 +1070,8 @@
 ["general_storage_web",["0.3.0","0.2.0","0.1.1","0.1.0"]]
 ["general_tools",["0.1.25","0.1.1","0.1.0","0.0.85","0.0.75","0.0.7","0.0.6","0.0.5","0.0.1"]]
 ["generalized-bulletproofs",["0.1.0"]]
+["generalized-bulletproofs-circuit-abstraction",["0.0.1"]]
+["generalized-bulletproofs-ec-gadgets",["0.0.1"]]
 ["generalized-schnorr",["0.1.0"]]
 ["generalized_suffix_tree",["1.2.1","1.1.1","1.1.0","1.0.0","0.2.1","0.2.0","0.1.2","0.1.1","0.1.0"]]
 ["generand",["1.0.1","1.0.0"]]
