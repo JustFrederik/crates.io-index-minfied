@@ -929,6 +929,7 @@
 ["mango-hal",["0.1.0"]]
 ["mango-orm",[]]
 ["mango-panel",[]]
+["mango-rt",["0.1.0"]]
 ["mango_compiler_ast_core",["0.1.0"]]
 ["mango_compiler_ast_full",["0.1.0"]]
 ["mango_compiler_ir",["0.1.0"]]
