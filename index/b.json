@@ -1938,7 +1938,7 @@
 ["bevy_extern_events",["0.3.0","0.2.3","0.2.2","0.2.1","0.2.0","0.1.2","0.1.1","0.1.0"]]
 ["bevy_extra",["0.0.1"]]
 ["bevy_fabulous",["0.1.1","0.1.0"]]
-["bevy_fake_interior",["0.0.2","0.0.1"]]
+["bevy_fake_interior",["0.1.0","0.0.2","0.0.1"]]
 ["bevy_fallable",[]]
 ["bevy_fallable_derive",[]]
 ["bevy_fallible",["0.4.0"]]
