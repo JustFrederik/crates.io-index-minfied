@@ -1894,7 +1894,7 @@
 ["embedded-async-timer",["0.1.0"]]
 ["embedded-bacnet",["0.3.0","0.2.0","0.1.0"]]
 ["embedded-builder",["0.1.1","0.1.0"]]
-["embedded-c-sdk-bind-hal",["0.0.0"]]
+["embedded-c-sdk-bind-hal",["0.1.0","0.0.0"]]
 ["embedded-can",["0.4.1","0.4.0","0.3.0","0.2.0","0.1.0"]]
 ["embedded-canvas",["0.3.1","0.3.0","0.2.0","0.1.2","0.1.1","0.1.0"]]
 ["embedded-ccs811",["0.2.0","0.1.0"]]
