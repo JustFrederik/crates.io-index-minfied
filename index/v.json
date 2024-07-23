@@ -1241,7 +1241,7 @@
 ["vhost-device-gpio",["0.1.0"]]
 ["vhost-device-i2c",["0.1.0"]]
 ["vhost-device-rng",["0.1.0"]]
-["vhost-device-scmi",["0.1.0"]]
+["vhost-device-scmi",["0.2.0","0.1.0"]]
 ["vhost-device-scsi",["0.1.0"]]
 ["vhost-device-sound",["0.2.0","0.1.0"]]
 ["vhost-device-vsock",["0.1.0"]]
