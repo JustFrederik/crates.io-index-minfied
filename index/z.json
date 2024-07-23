@@ -1106,7 +1106,7 @@
 ["zksync_consensus_network",["0.1.0-rc.2","0.1.0-rc.1"]]
 ["zksync_consensus_roles",["0.1.0-rc.2","0.1.0-rc.1"]]
 ["zksync_consensus_storage",["0.1.0-rc.2","0.1.0-rc.1"]]
-["zksync_consensus_tools",["0.1.0-rc.2","0.1.0-rc.1"]]
+["zksync_consensus_tools",[]]
 ["zksync_consensus_utils",["0.1.0-rc.2","0.1.0-rc.1"]]
 ["zksync_consistency_checker",["0.1.0"]]
 ["zksync_contract_verification_server",["0.1.0"]]
