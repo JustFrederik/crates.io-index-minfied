@@ -3850,6 +3850,8 @@
 ["hydroperfox",["0.1.0"]]
 ["hydroperfox-filepaths",["1.0.0"]]
 ["hydroperfox-lateformat",["1.0.0"]]
+["hydroperfox-smodel",["1.0.0"]]
+["hydroperfox-smodel-proc",["1.0.0"]]
 ["hydroperfox-sourcetext",["1.0.0"]]
 ["hydropump",["0.0.1"]]
 ["hydrum",["0.0.0-placeholder"]]
