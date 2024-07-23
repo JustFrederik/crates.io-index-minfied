@@ -957,7 +957,7 @@
 ["cancellable-promise",["0.1.0"]]
 ["cancellable-timer",["0.1.0"]]
 ["cancellation",["0.1.0"]]
-["cancellation-token",["0.1.0"]]
+["cancellation-token",["0.1.1","0.1.0"]]
 ["cancellation-token-eagle",["0.2.0","0.1.0"]]
 ["canda",["0.0.0"]]
 ["candela",["0.2.1","0.2.0","0.1.0"]]
