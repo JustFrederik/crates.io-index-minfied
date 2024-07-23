@@ -1127,7 +1127,7 @@
 ["zksync_external_price_api",["0.1.0"]]
 ["zksync_health_check",["0.1.0"]]
 ["zksync_house_keeper",["0.1.0"]]
-["zksync_kzg",["0.150.1","0.150.0"]]
+["zksync_kzg",["0.150.2-rc.1","0.150.1","0.150.0"]]
 ["zksync_l1_contract_interface",["0.1.0"]]
 ["zksync_mempool",["0.1.0"]]
 ["zksync_merkle_tree",["0.1.0"]]
