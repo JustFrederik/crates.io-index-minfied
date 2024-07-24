@@ -2205,7 +2205,7 @@
 ["reactive-signals",["0.1.0-alpha.4","0.1.0-alpha.3","0.1.0-alpha.2","0.1.0-alpha.1"]]
 ["reactive-state",["0.3.0","0.2.3","0.2.2","0.2.1","0.2.0","0.1.4","0.1.3","0.1.2","0.1.1","0.1.0"]]
 ["reactive-streams",["0.0.1"]]
-["reactive_graph",["0.1.0-alpha"]]
+["reactive_graph",["0.1.0-beta","0.1.0-alpha"]]
 ["reactivex",["0.0.3","0.0.2","0.0.1"]]
 ["reactivity",[]]
 ["reactivx",[]]
