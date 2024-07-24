@@ -14138,7 +14138,7 @@
 ["surrealdb-tikv-client-pd",["0.1.0-surreal.2","0.1.0-surreal.1"]]
 ["surrealdb-tikv-client-proto",["0.1.1","0.1.0-surreal.2","0.1.0-surreal.1"]]
 ["surrealdb-tikv-client-store",["0.1.0-surreal.2","0.1.0-surreal.1"]]
-["surrealdb_client",["1.5.5","1.5.4","0.1.0"]]
+["surrealdb_client",["2.0.0","1.5.5","1.5.4","0.1.0"]]
 ["surrealdb_extra",["0.8.1","0.8.0","0.7.1","0.7.0","0.6.0","0.5.1"]]
 ["surrealdb_extra_derive",["0.8.1","0.8.0","0.7.1","0.7.0","0.6.0","0.5.0","0.4.0"]]
 ["surrealdb_functions",["0.0.4","0.0.3","0.0.2","0.0.1"]]
