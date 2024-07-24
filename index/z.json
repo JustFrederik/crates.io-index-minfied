@@ -1099,7 +1099,7 @@
 ["zksync_circuit",["3.0.0"]]
 ["zksync_circuit_breaker",["0.1.0"]]
 ["zksync_commitment_generator",["0.1.0"]]
-["zksync_concurrency",["0.1.0-rc.3","0.1.0-rc.2","0.1.0-rc.1"]]
+["zksync_concurrency",["0.1.0-rc.4","0.1.0-rc.3","0.1.0-rc.2","0.1.0-rc.1"]]
 ["zksync_config",["0.1.0"]]
 ["zksync_consensus_bft",["0.1.0-rc.3","0.1.0-rc.2","0.1.0-rc.1"]]
 ["zksync_consensus_crypto",["0.1.0-rc.3","0.1.0-rc.2","0.1.0-rc.1"]]
