@@ -2364,7 +2364,7 @@
 ["derive_more_preview",["0.1.0"]]
 ["derive_more_preview-impl",["0.1.0"]]
 ["derive_ops",["0.1.0"]]
-["derive_pb",["0.0.1"]]
+["derive_pb",["0.0.2","0.0.1"]]
 ["derive_pod",["0.1.2","0.1.1","0.1.0"]]
 ["derive_rand",[]]
 ["derive_recursive",["1.0.3","1.0.2","1.0.1","1.0.0"]]
