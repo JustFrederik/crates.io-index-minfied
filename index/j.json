@@ -646,6 +646,7 @@
 ["jito-relayer-rpc",["0.1.0"]]
 ["jito-restaking-core",["0.0.1"]]
 ["jito-restaking-sanitization",["0.0.1"]]
+["jito-restaking-sdk",["0.0.1"]]
 ["jito-rpc",["0.1.0"]]
 ["jito-searcher-client",["0.0.1"]]
 ["jito-solana",["0.1.1","0.1.0"]]
