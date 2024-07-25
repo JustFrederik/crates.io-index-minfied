@@ -3801,6 +3801,7 @@
 ["essential-node",["0.0.0-release"]]
 ["essential-node-api",["0.0.0-release"]]
 ["essential-node-db",["0.0.0-release"]]
+["essential-node-db-sql",["0.0.0"]]
 ["essential-read",["0.1.0","0.0.0-release"]]
 ["essential-relayer",["0.0.0-release"]]
 ["essential-rest-client",["0.1.0","0.0.0-release"]]
