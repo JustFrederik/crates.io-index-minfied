@@ -6558,6 +6558,7 @@
 ["tracecontext",[]]
 ["traced",[]]
 ["traced-test",["0.3.6","0.2.0","0.1.0"]]
+["traced_result",["0.1.0"]]
 ["tracefp",["0.0.1"]]
 ["traceidr",["1.0.0"]]
 ["tracelog",["0.1.0"]]
