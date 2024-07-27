@@ -4030,6 +4030,7 @@
 ["sfi-gtk",["0.0.0"]]
 ["sfi-server",["0.0.0"]]
 ["sfi-web",["0.0.0"]]
+["sfil",["0.1.0"]]
 ["sfile",[]]
 ["sfink_callgraph_traversal",["0.2.1","0.2.0","0.1.0"]]
 ["sfio-promise",["0.2.0","0.1.0"]]
