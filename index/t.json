@@ -3690,6 +3690,7 @@
 ["thread-time",["1.0.0"]]
 ["thread-tree",["0.3.3","0.3.2","0.3.1","0.3.0","0.2.0"]]
 ["thread-utils",[]]
+["thread-waker",["1.0.0"]]
 ["threadReactive",["0.1.0"]]
 ["thread_binder",["0.1.0"]]
 ["thread_clock",[]]
