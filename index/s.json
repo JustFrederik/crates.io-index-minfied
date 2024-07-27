@@ -14207,6 +14207,7 @@
 ["sus-impls",["0.2.1","0.2.0","0.1.0"]]
 ["sus-proc-macro",["0.0.1"]]
 ["sus-rs",["0.1.0"]]
+["sus_compiler",["0.0.1"]]
 ["susanoo",[]]
 ["susanoo_codegen",[]]
 ["susanoo_contrib",[]]
