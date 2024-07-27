@@ -4851,6 +4851,8 @@
 ["bmbp_plugin_event",["0.0.0"]]
 ["bmbp_plugin_excel",["0.0.0"]]
 ["bmbp_plugin_http",["0.0.0"]]
+["bmbp_plugin_message",["0.0.0"]]
+["bmbp_plugin_pdf",["0.0.0"]]
 ["bmbp_repoer_engine",["0.0.1"]]
 ["bmbp_report",["0.0.1"]]
 ["bmbp_report_calc",["0.0.1"]]
