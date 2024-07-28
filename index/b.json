@@ -4856,6 +4856,7 @@
 ["bmbp_file_server",["0.0.0"]]
 ["bmbp_file_store",["0.0.0"]]
 ["bmbp_file_ui",["0.0.0"]]
+["bmbp_marco",["0.0.2"]]
 ["bmbp_marco_bean",["0.0.2"]]
 ["bmbp_marco_curd",["0.0.2"]]
 ["bmbp_marco_rdbc",["0.0.2"]]
