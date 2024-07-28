@@ -762,6 +762,7 @@
 ["calendar",[]]
 ["calendar-cli",["0.1.0"]]
 ["calendar-duration",["1.0.0"]]
+["calendar-rs",["1.0.1","1.0.0"]]
 ["calendar_calculator",["0.3.0"]]
 ["calendar_client",["0.1.1"]]
 ["calendar_queue",["0.0.1"]]
