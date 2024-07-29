@@ -5811,7 +5811,7 @@
 ["simple-translate-json",["0.1.1","0.1.0"]]
 ["simple-tree",["0.1.2"]]
 ["simple-triple-buffer",["0.1.0"]]
-["simple-triplestore",["0.0.1"]]
+["simple-triplestore",["0.0.2","0.0.1"]]
 ["simple-undo",["0.1.1","0.1.0"]]
 ["simple-uuid",["0.5.1","0.5.0","0.4.0","0.3.1","0.3.0","0.2.0","0.1.0"]]
 ["simple-vec-collections",["0.4.0","0.3.0","0.2.0","0.1.2","0.1.1","0.1.0"]]

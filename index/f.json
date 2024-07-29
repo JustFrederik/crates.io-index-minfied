@@ -2709,7 +2709,7 @@
 ["five32",["0.1.0"]]
 ["five32-instruction-set",["0.1.0"]]
 ["five8",["0.1.0"]]
-["five8_const",["0.1.0"]]
+["five8_const",["0.1.1","0.1.0"]]
 ["five8_core",["0.1.0"]]
 ["five8_foo",["0.1.0"]]
 ["five8_foo_core",["0.1.0"]]
