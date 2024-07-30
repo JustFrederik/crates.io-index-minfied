@@ -285,7 +285,7 @@
 ["gandiva_rust_udf_shared",["0.1.5","0.1.4","0.1.2","0.1.1","0.1.0"]]
 ["gandolf-consensus",["1.0.0"]]
 ["gandolf-kvs",["1.0.0","0.1.0"]]
-["ganesh",["0.3.0","0.2.0","0.1.0"]]
+["ganesh",["0.3.1","0.3.0","0.2.0","0.1.0"]]
 ["ganganonline-parser-json",["0.0.0"]]
 ["ganganonline-parser-lib",["0.0.0"]]
 ["ganglion",["0.1.0"]]
