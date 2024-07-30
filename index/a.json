@@ -5366,6 +5366,8 @@
 ["argentum_event_business",["0.2.0-dev.1"]]
 ["argentum_log_business",["0.2.0-dev.1"]]
 ["argentum_log_infrastructure",["0.2.0-dev.1"]]
+["argentum_notification_business",["0.2.0-dev.1"]]
+["argentum_notification_infrastructure",["0.2.0-dev.1"]]
 ["argentum_openapi_infrastructure",["0.2.0-dev.1"]]
 ["argentum_standard_business",["0.2.0-dev.1"]]
 ["argentum_standard_infrastructure",["0.2.0-dev.1"]]
