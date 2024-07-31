@@ -1870,7 +1870,7 @@
 ["include_display_mode_tex",["0.1.5","0.1.4","0.1.3","0.1.2","0.1.1","0.1.0"]]
 ["include_file_compress",["0.1.3","0.1.2","0.1.1","0.1.0"]]
 ["include_file_path",[]]
-["include_gif",["1.1.0","1.0.1","1.0.0"]]
+["include_gif",["1.2.0","1.1.0","1.0.1","1.0.0"]]
 ["include_glob",["0.2.0","0.1.0"]]
 ["include_js",["0.1.2"]]
 ["include_js_codegen",["0.1.1"]]
