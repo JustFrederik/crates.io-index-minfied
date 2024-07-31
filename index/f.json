@@ -5572,7 +5572,7 @@
 ["fundamentum-edge-daemon",["1.1.0","1.0.0"]]
 ["fundamentum-edge-mcu-http-client",["0.1.0"]]
 ["fundamentum-edge-pfwd",["0.2.0","0.1.1","0.1.0"]]
-["fundamentum-edge-proto",["1.2.0","1.1.0","1.0.1","0.1.0"]]
+["fundamentum-edge-proto",["1.1.0","1.0.1","0.1.0"]]
 ["fundamentum-iot-mqtt-proto",["0.2.0","0.1.0"]]
 ["fundamentum-portforwarding-proto-rust",["0.2.0","0.1.1","0.1.0"]]
 ["fundamentum-sdk-api",["0.2.1","0.2.0","0.1.0"]]
