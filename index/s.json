@@ -12695,7 +12695,7 @@
 ["stream-io",["0.0.0"]]
 ["stream-jenkins-logs",["0.1.2","0.1.1","0.1.0"]]
 ["stream-kmerge",["0.2.0","0.1.2","0.1.1","0.1.0"]]
-["stream-locate-converter",["0.1.0"]]
+["stream-locate-converter",["0.1.1","0.1.0"]]
 ["stream-logs-to-s3",["0.1.5","0.1.4","0.1.3","0.1.2","0.1.1","0.1.0"]]
 ["stream-map-any",["0.2.2","0.2.1","0.2.0","0.1.0"]]
 ["stream-merge",["0.1.0"]]
