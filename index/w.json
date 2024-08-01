@@ -888,6 +888,7 @@
 ["wasm-tensorflow-models-pose-detection",["0.6.0","0.5.0","0.4.0","0.3.0","0.2.0","0.1.0"]]
 ["wasm-tensorflow-tfjs-core",["0.1.1","0.1.0"]]
 ["wasm-test",["0.1.0"]]
+["wasm-test-2",["0.1.0"]]
 ["wasm-test-runner",["0.1.2","0.1.1","0.1.0"]]
 ["wasm-testbed",["0.13.1"]]
 ["wasm-testsuite",["0.2.2","0.2.1","0.2.0","0.1.0"]]
