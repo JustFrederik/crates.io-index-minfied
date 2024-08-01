@@ -8963,6 +8963,7 @@
 ["convergence-dynamodb",["0.3.1"]]
 ["converse",["0.0.0"]]
 ["conversion",["0.1.0"]]
+["conversion-calc",["0.1.0"]]
 ["convert",["0.2.0","0.1.1"]]
 ["convert-base",["1.1.2","1.1.1","1.1.0","1.0.2","1.0.1","1.0.0"]]
 ["convert-byte-size-string",["1.1.2","1.1.1","1.1.0","1.0.0"]]
