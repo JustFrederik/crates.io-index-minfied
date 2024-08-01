@@ -1107,7 +1107,7 @@
 ["zksync_config",["0.1.0"]]
 ["zksync_consensus_bft",["0.1.0-rc.5","0.1.0-rc.4","0.1.0-rc.3","0.1.0-rc.2","0.1.0-rc.1"]]
 ["zksync_consensus_crypto",["0.1.0-rc.5","0.1.0-rc.4","0.1.0-rc.3","0.1.0-rc.2","0.1.0-rc.1"]]
-["zksync_consensus_executor",["0.1.0-rc.4","0.1.0-rc.3","0.1.0-rc.2","0.1.0-rc.1"]]
+["zksync_consensus_executor",["0.1.0-rc.5","0.1.0-rc.4","0.1.0-rc.3","0.1.0-rc.2","0.1.0-rc.1"]]
 ["zksync_consensus_network",["0.1.0-rc.5","0.1.0-rc.4","0.1.0-rc.3","0.1.0-rc.2","0.1.0-rc.1"]]
 ["zksync_consensus_roles",["0.1.0-rc.5","0.1.0-rc.4","0.1.0-rc.3","0.1.0-rc.2","0.1.0-rc.1"]]
 ["zksync_consensus_storage",["0.1.0-rc.5","0.1.0-rc.4","0.1.0-rc.3","0.1.0-rc.2","0.1.0-rc.1"]]
