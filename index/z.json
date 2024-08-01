@@ -1025,6 +1025,7 @@
 ["zk_merkle_tree",["0.1.0"]]
 ["zk_secp256k1",["0.1.0"]]
 ["zkais",["0.1.0"]]
+["zkat-workshop-example-cli",["0.1.1","0.1.0"]]
 ["zkbook",["0.1.0"]]
 ["zkbvm",["0.1.0"]]
 ["zkc",["0.1.0"]]
