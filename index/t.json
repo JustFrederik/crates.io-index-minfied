@@ -8704,7 +8704,7 @@
 ["tuple_unpack",["1.0.1","1.0.0"]]
 ["tuple_utils",["0.4.0","0.3.0","0.2.0","0.1.0"]]
 ["tuple_zip",["0.1.0"]]
-["tuplemagic",["0.1.0"]]
+["tuplemagic",["0.1.1","0.1.0"]]
 ["tupleops",["0.1.1","0.1.0"]]
 ["tupleops-generator",["0.1.0"]]
 ["tupleops-macros",["0.1.0"]]
