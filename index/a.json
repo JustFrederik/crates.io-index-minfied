@@ -9686,7 +9686,7 @@
 ["axum_session_auth",["0.14.0","0.13.0","0.12.1"]]
 ["axum_session_mongo",["0.2.0","0.1.0"]]
 ["axum_session_redispool",["0.2.0","0.1.1","0.1.0"]]
-["axum_session_sqlx",["0.1.1","0.1.0"]]
+["axum_session_sqlx",["0.2.0","0.1.1","0.1.0"]]
 ["axum_session_surreal",["0.1.1","0.1.0"]]
 ["axum_sessions_auth",[]]
 ["axum_sqlx_session_auth",[]]
