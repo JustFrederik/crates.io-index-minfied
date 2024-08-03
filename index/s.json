@@ -39,6 +39,7 @@
 ["s-rocksdb-sys",["0.5.5"]]
 ["s-secp256k1",["0.5.7"]]
 ["s-structured-log",["0.2.0","0.1.0"]]
+["s-test-sdk",["0.0.1"]]
 ["s-tokio-ipc",["0.1.0"]]
 ["s-tree",["0.3.0","0.1.0"]]
 ["s-trie-standardmap",["0.1.1"]]
