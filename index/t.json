@@ -8182,6 +8182,7 @@
 ["ts_influxdb",["0.7.3-beta.1"]]
 ["ts_init",["0.1.0"]]
 ["ts_lib",["0.1.0"]]
+["ts_microservice_generator",["0.1.1","0.1.0"]]
 ["ts_observing_environment",["0.2.0-alpha.2","0.2.0-alpha.1"]]
 ["ts_opentelemetry",["0.20.0-beta.1"]]
 ["ts_opentelemetry_api",["0.20.0-beta.1"]]
