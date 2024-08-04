@@ -864,6 +864,7 @@
 ["unicode_clusters",["0.1.2","0.1.1","0.1.0"]]
 ["unicode_converter",["0.1.2","0.1.1","0.1.0"]]
 ["unicode_escape",["0.1.0"]]
+["unicode_extension",["0.1.0"]]
 ["unicode_font",["0.1.1","0.1.0"]]
 ["unicode_graph",["0.9.11","0.9.9"]]
 ["unicode_hfwidth",["0.2.0"]]
