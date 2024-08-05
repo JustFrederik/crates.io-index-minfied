@@ -10000,6 +10000,7 @@
 ["split-first-char",["0.0.0"]]
 ["split-iter",["0.1.0"]]
 ["split-optional",["1.0.0"]]
+["split-paragraphs",["0.1.0"]]
 ["split-stream-by",["0.1.0","0.0.0"]]
 ["split-tail-out",["0.1.0"]]
 ["split-tk",["0.1.0"]]
