@@ -1871,7 +1871,7 @@
 ["embassy-timer",["0.0.0"]]
 ["embassy-traits",["0.0.2","0.0.1","0.0.0"]]
 ["embassy-uart",["0.0.0"]]
-["embassy-usb",["0.2.0","0.1.0","0.0.0"]]
+["embassy-usb",["0.3.0","0.2.0","0.1.0","0.0.0"]]
 ["embassy-usb-driver",["0.1.0","0.0.0"]]
 ["embassy-usb-hid",["0.0.0"]]
 ["embassy-usb-host",["0.0.0"]]
