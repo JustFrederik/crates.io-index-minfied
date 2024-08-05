@@ -1811,7 +1811,7 @@
 ["embassy-gpio",["0.0.0"]]
 ["embassy-hal",["0.0.0"]]
 ["embassy-hal-common",["0.0.0"]]
-["embassy-hal-internal",["0.1.0"]]
+["embassy-hal-internal",["0.2.0","0.1.0"]]
 ["embassy-hci",["0.0.0"]]
 ["embassy-i2c",["0.0.0"]]
 ["embassy-io",["0.0.0"]]
