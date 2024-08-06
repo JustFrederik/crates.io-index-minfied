@@ -2376,6 +2376,7 @@
 ["libjokes",["0.1.2","0.1.1"]]
 ["libjp",[]]
 ["libjpegturbo-sys",["0.0.2","0.0.1"]]
+["libjsonutils",["0.6.0"]]
 ["libjuice-rs",["0.1.0"]]
 ["libjuice-sys",["0.9.7"]]
 ["libjwt",["0.1.0"]]
