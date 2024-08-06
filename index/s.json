@@ -10033,6 +10033,7 @@
 ["splits_iter",["1.1.0","1.0.0"]]
 ["splitter",["0.2.5","0.2.4","0.2.3","0.2.2","0.2.0","0.1.3","0.1.2","0.1.1","0.1.0"]]
 ["splitter-derive",["0.1.6","0.1.5","0.1.4","0.1.1","0.1.0"]]
+["splitter-tree-sitter",["0.1.0"]]
 ["splitterrust_db",["0.1.0"]]
 ["splitterrust_discord",["0.1.0"]]
 ["splitterrust_server",["0.1.0"]]
