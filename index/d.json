@@ -3678,7 +3678,7 @@
 ["dioxus-use-dialog",["0.1.0"]]
 ["dioxus-use-document",["0.2.0"]]
 ["dioxus-use-gesture",["0.1.0"]]
-["dioxus-use-mounted",["0.2.1","0.2.0","0.2.0-alpha.1"]]
+["dioxus-use-mounted",["0.3.0-alpha.1","0.2.1","0.2.0","0.2.0-alpha.1"]]
 ["dioxus-use-navigator",["0.2.0"]]
 ["dioxus-use-request",["0.2.0-alpha05","0.1.5","0.1.4"]]
 ["dioxus-use-request-macro",["0.2.0-alpha05","0.2.0-alpha03","0.1.4"]]
