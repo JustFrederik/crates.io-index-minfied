@@ -10195,6 +10195,8 @@
 ["spring-job",["0.0.4"]]
 ["spring-macros",["0.0.4","0.0.3","0.0.1"]]
 ["spring-redis",["0.0.4"]]
+["spring-sea-orm",["0.0.4"]]
+["spring-sqlx",["0.0.4"]]
 ["spring-web",["0.0.4"]]
 ["spring83",["0.0.1"]]
 ["spring_motion",["0.1.0"]]
