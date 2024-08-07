@@ -1856,7 +1856,7 @@
 ["embassy-spi",["0.0.0"]]
 ["embassy-std",["0.0.0"]]
 ["embassy-stm32",["0.1.0","0.0.0"]]
-["embassy-stm32-plus",["0.1.1","0.1.0"]]
+["embassy-stm32-plus",["0.1.2","0.1.1","0.1.0"]]
 ["embassy-stm32-wpan",["0.0.0"]]
 ["embassy-stm32f0",["0.0.0"]]
 ["embassy-stm32f1",["0.0.0"]]
