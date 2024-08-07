@@ -3880,6 +3880,7 @@
 ["pinecone",["0.2.5","0.2.4","0.2.3","0.2.2","0.2.1","0.2.0","0.1.0"]]
 ["pinecone-client",[]]
 ["pinecone-rs",["0.1.5","0.1.4"]]
+["pinecone-sdk",["0.1.0"]]
 ["pinecone-wasm",[]]
 ["pinegui",["0.1.0"]]
 ["pinenote_dbus_service",["0.2.2-dev1","0.2.1-dev3","0.2.1-dev2","0.2.1-dev"]]
