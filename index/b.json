@@ -4863,6 +4863,7 @@
 ["bmbp_bpm_ui",["0.0.1"]]
 ["bmbp_bpm_upgrade",["0.0.1"]]
 ["bmbp_bpmn_model",["0.0.1"]]
+["bmbp_ctx_vars",["0.1.0"]]
 ["bmbp_dev",["0.0.0"]]
 ["bmbp_dev_deploy",["0.0.0"]]
 ["bmbp_dev_design",["0.0.0"]]
