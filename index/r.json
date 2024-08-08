@@ -7817,6 +7817,7 @@
 ["rspack_plugin_copy",["0.1.0"]]
 ["rspack_plugin_css",["0.1.0"]]
 ["rspack_plugin_devtool",["0.1.0"]]
+["rspack_plugin_dynamic_entry",["0.1.0"]]
 ["rspack_plugin_javascript",["0.1.0"]]
 ["rspack_plugin_runtime",["0.1.0"]]
 ["rspack_regex",["0.1.0"]]
