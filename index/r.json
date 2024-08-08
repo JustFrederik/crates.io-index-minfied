@@ -7791,6 +7791,7 @@
 ["rspack-codespan-reporting",["0.11.2"]]
 ["rspack-node-resolve",[]]
 ["rspack_allocator",["0.1.0"]]
+["rspack_ast",["0.1.0"]]
 ["rspack_collections",["0.1.0"]]
 ["rspack_hash",["0.1.0","0.0.1"]]
 ["rspack_macros",["0.1.0","0.0.1"]]
