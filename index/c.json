@@ -7865,6 +7865,8 @@
 ["commonware-execution",["0.0.1"]]
 ["commonware-messaging",["0.0.1"]]
 ["commonware-p2p",["0.0.3"]]
+["commonware-storage",["0.0.1"]]
+["commonware-wallet",["0.0.1"]]
 ["commot",["0.1.1","0.1.0"]]
 ["commr",["0.1.0"]]
 ["comms",["0.1.4"]]
