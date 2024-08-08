@@ -7829,6 +7829,7 @@
 ["rspack_plugin_json",["0.1.0"]]
 ["rspack_plugin_lazy_compilation",["0.1.0"]]
 ["rspack_plugin_library",["0.1.0"]]
+["rspack_plugin_lightning_css_minimizer",["0.1.0"]]
 ["rspack_plugin_runtime",["0.1.0"]]
 ["rspack_regex",["0.1.0"]]
 ["rspack_resolver",["0.1.0"]]
