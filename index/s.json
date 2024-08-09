@@ -13169,7 +13169,7 @@
 ["struct-scheme-derive-macros",["0.1.3"]]
 ["struct-string-template",["0.1.0"]]
 ["struct-tag",["0.2.2","0.2.0","0.1.6","0.1.5"]]
-["struct-to-json-db",["0.1.0"]]
+["struct-to-json-db",["0.1.1","0.1.0"]]
 ["struct-to-json-db-macro",["0.1.1","0.1.0"]]
 ["struct-variant",["1.0.2"]]
 ["struct2map",["0.1.6"]]
