@@ -3989,6 +3989,7 @@
 ["discrim-codegen",["0.1.2","0.1.1","0.1.0","0.0.2","0.0.1"]]
 ["discrimenum",["0.1.0"]]
 ["discriminant_hash_derive",["0.1.0"]]
+["discriminant_hash_eq",["0.1.0"]]
 ["discrimination",["0.0.2","0.0.1","0.0.0"]]
 ["discrimination-tree",["0.3.0","0.2.1","0.2.0","0.1.1","0.1.0"]]
 ["discriminord",["0.3.0","0.2.0","0.1.0"]]
