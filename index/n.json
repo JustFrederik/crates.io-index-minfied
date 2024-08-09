@@ -1696,6 +1696,7 @@
 ["network_helpers_sv2",["2.0.0"]]
 ["network_peers_discovery",["0.0.2","0.0.1"]]
 ["network_vis",["0.1.2","0.1.0"]]
+["networkcoding",["0.1.0"]]
 ["networkdirect",["0.1.2","0.1.1","0.1.0"]]
 ["networkdirect-sys",["0.1.2","0.1.0"]]
 ["networked",["0.1.0"]]
