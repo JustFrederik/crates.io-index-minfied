@@ -4560,6 +4560,7 @@
 ["googleapis-tonic-google-identity-accesscontextmanager-type",["0.2.0"]]
 ["googleapis-tonic-google-logging-type",["0.2.0"]]
 ["googleapis-tonic-google-maps-mobilitybilling-logs-v1",["0.2.0"]]
+["googleapis-tonic-google-rpc",["0.2.0"]]
 ["googleapis-tonic-google-search-partnerdataingestion-logging-v1",["0.2.0","0.0.0"]]
 ["googleapis-tonic-google-shopping-type",["0.2.0","0.1.0"]]
 ["googleapis-tonic-google-type",["0.2.0"]]
