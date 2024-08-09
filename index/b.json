@@ -974,7 +974,7 @@
 ["bbox-map-server",["0.6.0","0.6.0-beta1"]]
 ["bbox-processes-server",["0.6.0","0.6.0-beta1"]]
 ["bbox-routing-server",["0.1.0"]]
-["bbox-server",["0.6.0-beta1"]]
+["bbox-server",["0.6.0","0.6.0-beta1"]]
 ["bbox-tile-server",["0.6.0","0.6.0-beta1"]]
 ["bbox3d-estimator",["0.3.0","0.2.0","0.1.0"]]
 ["bbq",["0.1.3"]]
